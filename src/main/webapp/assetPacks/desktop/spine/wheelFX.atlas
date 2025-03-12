@@ -1,0 +1,548 @@
+
+wheelFX.png
+size: 599,599
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wheelWhiteOut
+  rotate: false
+  xy: 2, 2
+  size: 595, 595
+  orig: 810, 810
+  offset: 107, 115
+  index: -1
+
+wheelFX.jpg
+size: 1814,1814
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wheelBurst/wheelBurstSparks_00
+  rotate: false
+  xy: 2, 1512
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_01
+  rotate: false
+  xy: 2, 1210
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_02
+  rotate: false
+  xy: 304, 1512
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_03
+  rotate: false
+  xy: 2, 908
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_04
+  rotate: false
+  xy: 304, 1210
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_05
+  rotate: false
+  xy: 606, 1512
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_06
+  rotate: false
+  xy: 2, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_07
+  rotate: false
+  xy: 304, 908
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_08
+  rotate: false
+  xy: 606, 1210
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_09
+  rotate: false
+  xy: 908, 1512
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_10
+  rotate: false
+  xy: 2, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_11
+  rotate: false
+  xy: 304, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_12
+  rotate: false
+  xy: 606, 908
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_13
+  rotate: false
+  xy: 908, 1210
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_14
+  rotate: false
+  xy: 1210, 1512
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_15
+  rotate: false
+  xy: 2, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_16
+  rotate: false
+  xy: 304, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_17
+  rotate: false
+  xy: 606, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_18
+  rotate: false
+  xy: 908, 908
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_19
+  rotate: false
+  xy: 1210, 1210
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_20
+  rotate: false
+  xy: 1512, 1512
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_21
+  rotate: false
+  xy: 304, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_22
+  rotate: false
+  xy: 606, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_23
+  rotate: false
+  xy: 908, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_24
+  rotate: false
+  xy: 1210, 908
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_25
+  rotate: false
+  xy: 1512, 1210
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_26
+  rotate: false
+  xy: 606, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_27
+  rotate: false
+  xy: 908, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_28
+  rotate: false
+  xy: 1210, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_29
+  rotate: false
+  xy: 1512, 908
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_30
+  rotate: false
+  xy: 908, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_31
+  rotate: false
+  xy: 1210, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_32
+  rotate: false
+  xy: 1512, 606
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_33
+  rotate: false
+  xy: 1210, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_34
+  rotate: false
+  xy: 1512, 304
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_35
+  rotate: false
+  xy: 1512, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+
+wheelFX2.jpg
+size: 1210,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wheelBurst/wheelBurstSparks_36
+  rotate: false
+  xy: 2, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_37
+  rotate: false
+  xy: 304, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_38
+  rotate: false
+  xy: 606, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+wheelBurst/wheelBurstSparks_39
+  rotate: false
+  xy: 908, 2
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+
+wheelFX3.jpg
+size: 2010,2010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wheelSpinSparks/wheelSparkLoop_00
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_64
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_04
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_06
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_08
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_10
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_12
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_14
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_16
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_18
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_20
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_22
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_24
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_26
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_28
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_30
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+wheelFX4.jpg
+size: 2010,2010
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wheelSpinSparks/wheelSparkLoop_32
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_34
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_36
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_38
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_40
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_42
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_44
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_46
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_48
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_50
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_52
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_54
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_56
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_58
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_60
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wheelSpinSparks/wheelSparkLoop_62
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1

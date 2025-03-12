@@ -1,0 +1,102 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "{@minRTP} %",
+    "RTPrange": "de {@minRTP} % à {@maxRTP} %",
+    "paybackTitle": "Remboursement escompté",
+    "paybackBody": "Pour ce jeu, le remboursement escompté théorique sur le long terme est de {RTP}.",
+    "subheading": "Mise : {ticketCost}",
+    "prizeLevel": "Niveau de prix",
+    "description": "Description",
+    "prizeValue": "Valeur du prix",
+    "descriptionText1": "Gain des correspondances Ruby 7s",
+    "descriptionText2": "Gain bonus",
+    "overallChances": "Il y a globalement 1 chance sur {odds} de gagner un prix lors de chaque tour.",
+    "prizeDivision": "Répartition des prix",
+    "prizeRemaining": "Prix restants approximatifs",
+    "oddsPerPlay": "Cote par tour"
+  },
+  "title": "Ruby 7s",
+  "MenuCommand": {
+    "price": "Mise",
+    "stake": "Mise",
+    "howToPlay": "COMMENT JOUER ?",
+    "paytable": "Que peut-on gagner ?",
+    "close": "X",
+    "audio": {
+      "sound": "Son",
+      "on": "Activé",
+      "off": "Désactivé"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Erreur: ",
+    "genericErrorText": "Erreur interne détectée.\nEXIT et relancer le jeu."
+  },
+  "Game": {
+    "footer_balance": "BALANCE",
+    "footer_ticketCost": "MISE",
+    "ticketSelect_ticketCost": "MISE",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "DÉMO "
+    },
+    "footer_win": {
+      "BUY": "ACHETER",
+      "TRY": "DÉMO"
+    },
+
+    "button_buy": {
+      "BUY": "ACHETER",
+      "TRY": "DÉMO"
+    },
+    "button_try": "DÉMO",
+    "button_retry": "RETRY",
+    "button_continue": "CONTINUER",
+    "button_moveToMoney": "ACHETER",
+    "button_autoPlay": "AUTOPLAY",
+    "button_stop": "ARRÊTER",
+    "button_playAgain": {
+      "BUY": "ACHETER",
+      "TRY": "DÉMO"
+    },
+    "button_tryAgain": "DÉMO",
+    "button_ok": "OK",
+    "button_exit": "QUITTER",
+
+    "error_button_exit": "QUITTER",
+    "error_title": "ERREUR",
+
+    "message_nonWin": "DOMMAGE, PAS DE GAIN.",
+    "message_win": {
+      "BUY": "BRAVO ! VOUS GAGNEZ",
+      "TRY": "UNE DÉMO DU JEU NE DONNE DROIT À AUCUN GAIN."
+    },
+
+    "howToPlay": "COMMENT JOUER ?",
+    "page1_line1": "[7]Découvrez un symbole 7 pour gagner.",
+    "page1_line2": "[77]Découvrez un double symbole 7 pour doubler votre montant de gain.",
+    "page1_line3": "[777]Découvrez un triple symbole 7 pour tripler votre montant de gain.",
+    "page1_line4": "[RUBY]Découvrez 3 ou plus symboles bonus « rubis » ou plus et accédez au jeu bonus.",
+
+    "page2_line1": "[WHEEL]Faites tourner la roue pour commencer.",
+    "page2_line2": "[WHEELPRIZE]Gagnez le montant vers lequel la flèche pointe à l'arrêt de la roue.",
+    "page2_line3": "[WHEELARROW]Accédez à la roue suivante lorsque la flèche indique un symbole flèche.",
+    "page2_line4": "[WHEELX]Si vous découvrez un symbole X, un symbole « rubis » est supprimé dans la légende. Le jeu bonus s'arrête quand la légende « bonus » ne contient plus aucun rubis.",
+
+    "winUpTo": "GAGNEZ JUSQU’À",
+    "bonus": "BONUS",
+    "bonusNoWin": "DOMMAGE, PAS DE GAIN.",
+    "bonusWin": "GAIN",
+    "totalWin": "TOTAL DES GAINS",
+    "infoBarText": "TROUVEZ DES [7sLOGO] RUBIS POUR GAGNER!",
+    "bonusInfo": "ACCÉDEZ AU BONUS AVEC\n3 RUBIS OU PLUS",
+    "bonusInfo2": "Rubis épuisés = Fin du bonus",
+
+    "bonusSpinButton": "TOURNER",
+    "respin": "TOURNER",
+
+    "yourNumbers": "VOS NUMÉROS",
+    "luckyNumbers": "NUMÉROS CHANCE"
+  }
+}

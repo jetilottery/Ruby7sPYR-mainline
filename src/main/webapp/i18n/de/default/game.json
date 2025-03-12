@@ -1,0 +1,103 @@
+﻿{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "{@minRTP} %",
+    "RTPrange": "{@minRTP} % bis {@maxRTP} %",
+    "paybackTitle": "Erwartete Rückzahlung",
+    "paybackBody": "Für dieses Spiel beträgt die langfristig erwartete Rückzahlung {RTP}.",
+    "subheading": "Ticketpreis: {ticketCost}",
+    "prizeLevel": "Preisstufe",
+    "description": "Beschreibung",
+    "prizeValue": "Wert des Preises",
+    "descriptionText1": "Gewinn für Ruby-7-übereinstimmung",
+    "descriptionText2": "Bonusgewinn",
+    "overallChances": "Es gibt eine Chance von insgesamt 1:{odds}, bei jedem Spiel einen Preis zu gewinnen.",
+    "prizeDivision": "Aufteilung der Preise",
+    "prizeRemaining": "Ungefähre Anzahl verbliebener Preise",
+    "oddsPerPlay": "Chancen pro Spiel"
+
+  },
+  "title": "VORLAGE",
+  "MenuCommand": {
+    "price": "Preis",
+    "stake": "Wetteinsatz",
+    "howToPlay": "Hilfe",
+    "paytable": "Gewinntabelle",
+    "close": "Schließen",
+    "audio": {
+      "sound": "Ton",
+      "on": "Ein",
+      "off": "Aus"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Fehler: ",
+    "genericErrorText": "Es ist ein interner Fehler aufgetreten. Spiel VERLASSEN und neu starten."
+  },
+  "Game": {
+    "footer_balance": "GUTHABEN",
+    "footer_ticketCost": "TICKETPREIS",
+    "ticketSelect_ticketCost": "TICKETPREIS",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "VERSUCHEN "
+    },
+    "footer_win": {
+      "BUY": "GEWINN",
+      "TRY": "DEMO-GEWINN"
+    },
+
+    "button_buy": {
+      "BUY": "KAUFEN",
+      "TRY": "VERSUCHEN"
+    },
+    "button_try": "VERSUCHEN",
+    "button_retry": "RETRY",
+    "button_continue": "FORTFAHREN",
+    "button_moveToMoney": "ZUM GELD VERSCHIEBEN",
+    "button_autoPlay": "ALLE AUFDECKEN",
+    "button_stop": "STOPP",
+    "button_playAgain": {
+      "BUY": "ERNEUT SPIELEN",
+      "TRY": "ERNEUT VERSUCHEN"
+    },
+    "button_tryAgain": "ERNEUT VERSUCHEN",
+    "button_ok": "OKAY",
+    "button_exit": "BEENDEN",
+
+    "error_button_exit": "BEENDEN",
+    "error_title": "FEHLER",
+
+    "message_nonWin": "MEHR GLÜCK\nBEIM NÄCHSTEN MAL",
+    "message_win": {
+      "BUY": "GLÜCKWUNSCH!\nSIE GEWINNEN",
+      "TRY": "DANKE FÜRS SPIELEN!\nIHR MÖGLICHER GEWINN"
+    },
+
+    "howToPlay": "SPIELANLEITUNG",
+    "page1_line1": "[7]Decken Sie ein einzelnes 7-Symbol auf, um einen entsprechenden Preis zu gewinnen.",
+    "page1_line2": "[77]Decken Sie ein Doppel-7-Symbol auf, um den entsprechenden Preis zu verdoppeln.",
+    "page1_line3": "[777]Decken Sie ein Dreifach-7-Symbol auf, um den entsprechenden Preis zu verdreifachen.",
+    "page1_line4": "[RUBY]Decken Sie 3 oder mehr Bonusrubin-Symbole auf, um das Bonusspiel zu starten.",
+
+    "page2_line1": "[WHEEL]Drehen Sie das Rad, um das Bonusspiel zu starten.",
+    "page2_line2": "[WHEELPRIZE]Gewinnen Sie einen Preis, wenn der Zeiger auf einem Preis-Wert landet.",
+    "page2_line3": "[WHEELARROW]Steigen Sie zum nächsten Rad auf, wenn der Zeiger auf einem Pfeil-Symbol landet.",
+    "page2_line4": "[WHEELX]Wenn Sie auf einem roten X landen, wird ein Bonusrubin entfernt. \nDer Bonus endet, wenn keine Bonusrubine mehr übrig sind.",
+
+    "winUpTo": "GEWINNEN SIE BIS ZU",
+    "bonus": "BONUS",
+    "bonusNoWin": "KEIN BONUSGEWINN",
+    "bonusWin": "BONUSGEWINN",
+    "totalWin": "GESAMTGEWINN",
+    "infoBarText": "FINDEN SIE RUBIN-[7sLOGO], UM ZU GEWINNEN!",
+    "bonusInfo": "3 oder mehr schalten\nden Bonus frei",
+    "bonusInfo2": "Null Rubine = Bonusende",
+
+    "bonusSpinButton": "Bonusdreh-Schaltfläche",
+    "respin": "Neudreh",
+
+    "yourNumbers": "IHRE ZAHLEN",
+    "luckyNumbers": "GLÜCKSZAHLEN"
+  }
+}

@@ -1,0 +1,112 @@
+{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "{@minRTP}% a {@maxRTP}%",
+        "paybackTitle": "Pagamento esperado",
+        "paybackBody": "Para este jogo, o pagamento a longo prazo, teoricamente esperado, é {RTP}.",
+        "subheading": "Custo do bilhete: {ticketCost}",
+        "prizeLevel": "Nível do Prémio",
+        "description": "Descrição",
+        "prizeValue": "Valor do Prémio",
+        "descriptionText1": "Match Ruby 7 Win",
+        "descriptionText2": "Bonus Win",
+        "overallChances": "Há uma hipótese global de 1 em {odds} de ganhar um prémio em cada peça",
+        "prizeDivision": "Divisão de Prémios",
+        "prizeRemaining": "Prémios aproximados remanescentes",
+        "oddsPerPlay": "Odds Per Play"
+    },
+    "title": "TEMPLATE",
+    "MenuCommand":
+    {
+        "price": "Preço",
+        "stake": "Estaca",
+        "howToPlay": "Ajuda",
+        "paytable": "Tabela de prémios",
+        "close": "Fechar",
+        "audio":
+        {
+            "sound": "Som",
+            "on": "Ligado",
+            "off": "Desligado"
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Erro: ",
+        "genericErrorText": "Ocorreu um erro interno. SAIR e relançar o jogo."
+    },
+    "Game":
+    {
+        "footer_balance": "SALDO",
+        "footer_ticketCost": "CUSTO DO BILHETE",
+        "ticketSelect_ticketCost": "CUSTO DO BILHETE",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "TRY "
+        },
+        "footer_win":
+        {
+            "BUY": "GANHAR",
+            "TRY": "GANHO DEMO"
+        },
+
+        "button_buy":
+        {
+            "BUY": "COMPRAR",
+            "TRY": "TENTAR"
+        },
+        "button_try": "TENTAR",
+        "button_retry": "TENTAR NOVAMENTE",
+        "button_continue": "CONTINUAR",
+        "button_moveToMoney": "AVANÇAR PARA DINHEIRO",
+        "button_autoPlay": "REVELAR TUDO",
+        "button_stop": "PARAR",
+        "button_playAgain":
+        {
+            "BUY": "JOGAR NOVAMENTE",
+            "TRY": "TENTAR NOVAMENTE"
+        },
+        "button_tryAgain": "TENTAR NOVAMENTE",
+        "button_ok": "OK",
+        "button_exit": "SAIR",
+
+        "error_button_exit": "SAIR",
+        "error_title": "ERRO",
+
+        "message_nonWin": "MELHOR SORTEnPRÓXIMA VEZ",
+        "message_win":
+        {
+            "BUY": "PARABÉNS!{\nGANHOU",
+            "TRY": "OBRIGADO POR JOGAR! PODERIA TER GANHO"
+        },
+
+        "howToPlay": "COMO JOGAR",
+        "page1_line1": "[7]Revele um único símbolo 7 para ganhar o prémio correspondente.",
+        "page1_line2": "[77]Revele um símbolo de 7 duplo para duplicar o prémio correspondente.",
+        "page1_line3": "[777]Revele um símbolo do triplo 7 para triplicar o prémio correspondente.",
+        "page1_line4": "[RUBY]Revele 3 ou mais símbolos Ruby de Bónus para iniciar o jogo de bónus.",
+
+        "page2_line1": "[WHEEL]Rodar a roda para começar o jogo bónus.",
+        "page2_line2": "[WHEELPRIZE]Ganhe um prémio quando o ponteiro aterrar sobre um valor de prémio.",
+        "page2_line3": "[WHEELARROW]Avançar para a roda seguinte quando o ponteiro aterrar sobre um símbolo de Seta.",
+        "page2_line4": "[WHEELX]Aterrar num X vermelho e um Rubi Bónus é removido.\nbónus termina quando não restam Rubis de Bónus",
+
+        "winUpTo": "GANHE ATÉ",
+        "bonus": "BÓNUS",
+        "bonusNoWin": "NENHUM GANHO DE BÓNUS",
+        "bonusWin": "GANHO DE BÓNUS",
+        "totalWin": "TOTAL DO GANHO",
+        "infoBarText": "ENCONTRE RUBI [7sLOGO] PARA GANHAR!",
+        "bonusInfo": "3 ou mais desbloqueia o Bónus",
+        "bonusInfo2": "Zero Rubis = Fim do Bónus",
+
+        "bonusSpinButton": "bonusSpinButton",
+        "respin": "Respin",
+
+        "yourNumbers": "OS SEUS NÚMEROS",
+        "luckyNumbers": "NÚMEROS DA SORTE"
+    }
+}

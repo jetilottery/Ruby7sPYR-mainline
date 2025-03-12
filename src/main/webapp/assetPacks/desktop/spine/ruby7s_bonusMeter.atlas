@@ -1,0 +1,284 @@
+
+ruby7s_bonusMeter.png
+size: 536,382
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blurBAll
+  rotate: false
+  xy: 2, 2
+  size: 378, 378
+  orig: 500, 500
+  offset: 61, 61
+  index: -1
+bonus_base_bg_silver
+  rotate: true
+  xy: 382, 7
+  size: 373, 152
+  orig: 377, 155
+  offset: 2, 2
+  index: -1
+
+ruby7s_bonusMeter.jpg
+size: 1660,788
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+particles/particles_00
+  rotate: false
+  xy: 2, 401
+  size: 357, 193
+  orig: 800, 400
+  offset: 225, 107
+  index: -1
+particles/particles_01
+  rotate: false
+  xy: 720, 399
+  size: 365, 194
+  orig: 800, 400
+  offset: 216, 106
+  index: -1
+particles/particles_02
+  rotate: false
+  xy: 2, 204
+  size: 364, 195
+  orig: 800, 400
+  offset: 216, 106
+  index: -1
+particles/particles_03
+  rotate: false
+  xy: 2, 596
+  size: 363, 190
+  orig: 800, 400
+  offset: 215, 111
+  index: -1
+particles/particles_04
+  rotate: false
+  xy: 2, 5
+  size: 361, 197
+  orig: 800, 400
+  offset: 219, 106
+  index: -1
+particles/particles_05
+  rotate: false
+  xy: 365, 3
+  size: 362, 197
+  orig: 800, 400
+  offset: 218, 106
+  index: -1
+particles/particles_06
+  rotate: false
+  xy: 732, 595
+  size: 362, 191
+  orig: 800, 400
+  offset: 218, 112
+  index: -1
+particles/particles_07
+  rotate: false
+  xy: 734, 201
+  size: 362, 196
+  orig: 800, 400
+  offset: 218, 107
+  index: -1
+particles/particles_08
+  rotate: true
+  xy: 1460, 433
+  size: 353, 196
+  orig: 800, 400
+  offset: 217, 107
+  index: -1
+particles/particles_09
+  rotate: false
+  xy: 361, 401
+  size: 357, 193
+  orig: 800, 400
+  offset: 225, 107
+  index: -1
+particles/particles_10
+  rotate: false
+  xy: 1087, 399
+  size: 365, 194
+  orig: 800, 400
+  offset: 216, 106
+  index: -1
+particles/particles_11
+  rotate: false
+  xy: 368, 202
+  size: 364, 195
+  orig: 800, 400
+  offset: 216, 106
+  index: -1
+particles/particles_12
+  rotate: false
+  xy: 367, 596
+  size: 363, 190
+  orig: 800, 400
+  offset: 215, 111
+  index: -1
+particles/particles_13
+  rotate: false
+  xy: 729, 2
+  size: 361, 197
+  orig: 800, 400
+  offset: 219, 106
+  index: -1
+particles/particles_14
+  rotate: false
+  xy: 1092, 2
+  size: 362, 197
+  orig: 800, 400
+  offset: 218, 106
+  index: -1
+particles/particles_15
+  rotate: false
+  xy: 1096, 595
+  size: 362, 191
+  orig: 800, 400
+  offset: 218, 112
+  index: -1
+particles/particles_16
+  rotate: false
+  xy: 1098, 201
+  size: 362, 196
+  orig: 800, 400
+  offset: 218, 107
+  index: -1
+particles/particles_17
+  rotate: true
+  xy: 1462, 78
+  size: 353, 196
+  orig: 800, 400
+  offset: 217, 107
+  index: -1
+
+ruby7s_bonusMeter2.jpg
+size: 1788,581
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ringHighlight/ringHighlight_00
+  rotate: true
+  xy: 831, 425
+  size: 154, 185
+  orig: 800, 400
+  offset: 323, 104
+  index: -1
+ringHighlight/ringHighlight_01
+  rotate: true
+  xy: 1018, 415
+  size: 164, 185
+  orig: 800, 400
+  offset: 319, 104
+  index: -1
+ringHighlight/ringHighlight_02
+  rotate: true
+  xy: 1587, 397
+  size: 182, 185
+  orig: 800, 400
+  offset: 310, 104
+  index: -1
+ringHighlight/ringHighlight_03
+  rotate: false
+  xy: 1581, 210
+  size: 205, 185
+  orig: 800, 400
+  offset: 297, 104
+  index: -1
+ringHighlight/ringHighlight_04
+  rotate: false
+  xy: 764, 241
+  size: 234, 182
+  orig: 800, 400
+  offset: 282, 106
+  index: -1
+ringHighlight/ringHighlight_05
+  rotate: false
+  xy: 1310, 230
+  size: 269, 182
+  orig: 800, 400
+  offset: 264, 106
+  index: -1
+ringHighlight/ringHighlight_06
+  rotate: false
+  xy: 1000, 234
+  size: 308, 178
+  orig: 800, 400
+  offset: 244, 108
+  index: -1
+ringHighlight/ringHighlight_07
+  rotate: false
+  xy: 2, 255
+  size: 345, 175
+  orig: 800, 400
+  offset: 225, 111
+  index: -1
+ringHighlight/ringHighlight_08
+  rotate: false
+  xy: 1205, 414
+  size: 380, 165
+  orig: 800, 400
+  offset: 208, 118
+  index: -1
+ringHighlight/ringHighlight_09
+  rotate: false
+  xy: 2, 432
+  size: 408, 147
+  orig: 800, 400
+  offset: 195, 129
+  index: -1
+ringHighlight/ringHighlight_10
+  rotate: false
+  xy: 412, 426
+  size: 417, 153
+  orig: 800, 400
+  offset: 191, 126
+  index: -1
+ringHighlight/ringHighlight_11
+  rotate: false
+  xy: 349, 253
+  size: 413, 171
+  orig: 800, 400
+  offset: 193, 121
+  index: -1
+ringHighlight/ringHighlight_12
+  rotate: false
+  xy: 726, 41
+  size: 385, 191
+  orig: 800, 400
+  offset: 206, 111
+  index: -1
+ringHighlight/ringHighlight_13
+  rotate: false
+  xy: 1113, 22
+  size: 352, 206
+  orig: 800, 400
+  offset: 222, 106
+  index: -1
+ringHighlight/ringHighlight_14
+  rotate: false
+  xy: 1467, 2
+  size: 313, 206
+  orig: 800, 400
+  offset: 241, 104
+  index: -1
+ringHighlight/ringHighlight_15
+  rotate: false
+  xy: 452, 56
+  size: 272, 195
+  orig: 800, 400
+  offset: 262, 102
+  index: -1
+ringHighlight/ringHighlight_16
+  rotate: false
+  xy: 2, 64
+  size: 238, 189
+  orig: 800, 400
+  offset: 279, 101
+  index: -1
+ringHighlight/ringHighlight_17
+  rotate: false
+  xy: 242, 62
+  size: 208, 189
+  orig: 800, 400
+  offset: 294, 101
+  index: -1

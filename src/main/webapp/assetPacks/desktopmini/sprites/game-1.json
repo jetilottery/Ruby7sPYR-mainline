@@ -1,0 +1,102 @@
+{"frames": {
+
+"gemSpin_02":
+{
+	"frame": {"x":612,"y":1,"w":83,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":84,"w":83,"h":83},
+	"sourceSize": {"w":250,"h":250},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"gemSpin_26":
+{
+	"frame": {"x":436,"y":1,"w":84,"h":82},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":85,"w":84,"h":82},
+	"sourceSize": {"w":250,"h":250},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"gemSpin_27":
+{
+	"frame": {"x":522,"y":1,"w":83,"h":88},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":82,"w":83,"h":88},
+	"sourceSize": {"w":250,"h":250},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"tutorialArrow":
+{
+	"frame": {"x":1,"y":1,"w":107,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":78},
+	"sourceSize": {"w":107,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"tutorialLoss":
+{
+	"frame": {"x":328,"y":1,"w":106,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":78},
+	"sourceSize": {"w":106,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"tutorialPoint":
+{
+	"frame": {"x":110,"y":1,"w":107,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":78},
+	"sourceSize": {"w":107,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"tutorialRespin":
+{
+	"frame": {"x":219,"y":1,"w":107,"h":78},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":107,"h":78},
+	"sourceSize": {"w":107,"h":78},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wheelMiddleCircle":
+{
+	"frame": {"x":1,"y":713,"w":639,"h":641},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":639,"h":641},
+	"sourceSize": {"w":639,"h":641},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wheelMiddleCircleDivs":
+{
+	"frame": {"x":1,"y":86,"w":627,"h":625},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":627,"h":625},
+	"sourceSize": {"w":627,"h":625},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"wheelMiddleCircleRim":
+{
+	"frame": {"x":1,"y":1354,"w":643,"h":642},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":643,"h":642},
+	"sourceSize": {"w":643,"h":642},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "game-1.png",
+	"format": "RGBA8888",
+	"size": {"w":696,"h":1997},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2ee960aa11aa63a90bedbabdad70be81:b4dd7c31c7950b054e62fe490619f5ef:5f209c681de9b838c81c16cabec82336$"
+}
+}

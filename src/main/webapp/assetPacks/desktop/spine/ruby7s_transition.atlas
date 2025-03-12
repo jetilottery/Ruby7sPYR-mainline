@@ -1,0 +1,1075 @@
+
+ruby7s_transition.png
+size: 404,404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+transition-assets/cover
+  rotate: false
+  xy: 2, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+
+ruby7s_transition.jpg
+size: 1908,1908
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+transition-assets/gemShower/gemTrail_00
+  rotate: false
+  xy: 2, 1258
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_01
+  rotate: false
+  xy: 2, 1258
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_02
+  rotate: true
+  xy: 2, 1056
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_03
+  rotate: true
+  xy: 204, 1706
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_04
+  rotate: true
+  xy: 204, 1504
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_05
+  rotate: true
+  xy: 204, 1302
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_06
+  rotate: false
+  xy: 652, 652
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_07
+  rotate: false
+  xy: 2, 406
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_08
+  rotate: false
+  xy: 204, 406
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_09
+  rotate: false
+  xy: 406, 406
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_10
+  rotate: true
+  xy: 608, 450
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_11
+  rotate: true
+  xy: 608, 248
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_12
+  rotate: false
+  xy: 854, 1258
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_13
+  rotate: true
+  xy: 854, 1056
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_14
+  rotate: true
+  xy: 1056, 1706
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_15
+  rotate: true
+  xy: 1056, 1504
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_16
+  rotate: true
+  xy: 1056, 1302
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_17
+  rotate: true
+  xy: 854, 854
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_18
+  rotate: true
+  xy: 854, 652
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_19
+  rotate: false
+  xy: 1258, 2
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_20
+  rotate: false
+  xy: 1460, 2
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_21
+  rotate: false
+  xy: 1504, 652
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_22
+  rotate: false
+  xy: 1662, 2
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_23
+  rotate: false
+  xy: 1706, 1258
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_24
+  rotate: true
+  xy: 2, 46
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+
+ruby7s_transition2.jpg
+size: 2022,1908
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+transition-assets/gemShower/gemTrail_25
+  rotate: false
+  xy: 2, 1258
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_26
+  rotate: false
+  xy: 2, 608
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_27
+  rotate: false
+  xy: 204, 1258
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_28
+  rotate: false
+  xy: 204, 608
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_29
+  rotate: false
+  xy: 406, 1258
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_30
+  rotate: false
+  xy: 406, 608
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_31
+  rotate: false
+  xy: 608, 1258
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_32
+  rotate: false
+  xy: 608, 608
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_33
+  rotate: true
+  xy: 2, 406
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_34
+  rotate: false
+  xy: 810, 1258
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_35
+  rotate: true
+  xy: 2, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_36
+  rotate: false
+  xy: 810, 608
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_37
+  rotate: false
+  xy: 1012, 1258
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_38
+  rotate: true
+  xy: 2, 2
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_39
+  rotate: false
+  xy: 1012, 608
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_40
+  rotate: false
+  xy: 1214, 1258
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_41
+  rotate: false
+  xy: 1214, 608
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_42
+  rotate: true
+  xy: 652, 406
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_43
+  rotate: false
+  xy: 1416, 1258
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_44
+  rotate: true
+  xy: 652, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_45
+  rotate: false
+  xy: 1416, 608
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_46
+  rotate: false
+  xy: 1618, 1258
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_47
+  rotate: true
+  xy: 652, 2
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_48
+  rotate: false
+  xy: 1618, 608
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_49
+  rotate: false
+  xy: 1820, 1258
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_50
+  rotate: false
+  xy: 1820, 608
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_51
+  rotate: true
+  xy: 1302, 406
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_52
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_100
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_101
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_102
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_103
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_104
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_105
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_106
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_107
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_108
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_109
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_110
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_111
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_112
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_113
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_114
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_115
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_116
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_117
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_118
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_119
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_120
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_121
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_122
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_123
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_124
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_125
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_126
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_127
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_128
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_129
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_130
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_131
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_132
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_133
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_134
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_135
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_136
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_137
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_138
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_139
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_140
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_141
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_142
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_143
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_144
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_145
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_146
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_147
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_148
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_149
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_53
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_54
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_55
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_56
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_57
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_58
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_59
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_60
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_61
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_62
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_63
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_64
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_65
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_66
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_67
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_68
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_69
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_70
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_71
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_72
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_73
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_74
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_75
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_76
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_77
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_78
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_79
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_80
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_81
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_82
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_83
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_84
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_85
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_86
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_87
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_88
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_89
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_90
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_91
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_92
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_93
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_94
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_95
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_96
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_97
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_98
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1
+transition-assets/gemShower/gemTrail_99
+  rotate: true
+  xy: 1302, 204
+  size: 200, 648
+  orig: 200, 648
+  offset: 0, 0
+  index: -1

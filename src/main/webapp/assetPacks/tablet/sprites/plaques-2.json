@@ -1,0 +1,39 @@
+{"frames": {
+
+"Lose_plaque_Portrait":
+{
+	"frame": {"x":3,"y":3,"w":800,"h":826},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":826},
+	"sourceSize": {"w":800,"h":826},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"portrait_endOfGameMessageNoWinBackground":
+{
+	"frame": {"x":3,"y":3,"w":800,"h":826},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":826},
+	"sourceSize": {"w":800,"h":826},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"portrait_endOfGameMessageWinBackground":
+{
+	"frame": {"x":3,"y":3,"w":800,"h":826},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":826},
+	"sourceSize": {"w":800,"h":826},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "plaques-2.png",
+	"format": "RGBA8888",
+	"size": {"w":806,"h":832},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8f9d896748167d8bdc31d0fe88499fbc:da31a3ce628a4c73148bed52d2a326a0:1a30e7b1bf950d59eed1501e06c5a5cd$"
+}
+}

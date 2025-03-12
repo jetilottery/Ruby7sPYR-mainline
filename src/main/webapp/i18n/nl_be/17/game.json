@@ -1,0 +1,102 @@
+{
+  "version":"",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "{@minRTP}% tot {@maxRTP}%",
+    "paybackTitle": "Verwachte uitbetaling",
+    "paybackBody": "Op lange termijn bedraagt de theoretisch verwachte terugverdientijd van dit spel {RTP}.",
+    "subheading": "Inzet: {ticketCost}",
+    "prizeLevel": "Prijsniveau",
+    "description": "Beschrijving",
+    "prizeValue": "Prijswaarde",
+    "descriptionText1": "Winst uit overeenkomende getallen",
+    "descriptionText2": "Winst uit bonus",
+    "overallChances": "Er is een algemene winstkans van 1 op {odds} bij elk spel.",
+    "prizeDivision": "Prijsverdeling",
+    "prizeRemaining": "Resterende prijzen (ongeveer)",
+    "oddsPerPlay": "Odds per spel"
+  },
+  "title": "Ruby 7s",
+  "MenuCommand": {
+    "price": "Inzet",
+    "stake": "Inzet",
+    "howToPlay": "Hoe spelen?",
+    "paytable": "Wat kan je winnen?",
+    "close": "X",
+    "audio": {
+      "sound": "Geluid",
+      "on": "Aan",
+      "off": "Uit"
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Fout: ",
+    "genericErrorText": "Interne fout gevonden.\nEXIT en het spel opnieuw starten."
+  },
+  "Game": {
+    "footer_balance": "BALANCE",
+    "footer_ticketCost": "INZET",
+    "ticketSelect_ticketCost": "INZET",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "DEMO "
+    },
+    "footer_win": {
+      "BUY": "WINST",
+      "TRY": "DEMO"
+    },
+
+    "button_buy": {
+      "BUY": "KOPEN",
+      "TRY": "DEMO"
+    },
+    "button_try": "DEMO",
+    "button_retry": "RETRY",
+    "button_continue": "DOORGAAN",
+    "button_moveToMoney": "KOPEN",
+    "button_autoPlay": "AUTOPLAY",
+    "button_stop": "STOP",
+    "button_playAgain":{
+      "BUY": "KOPEN",
+      "TRY": "DEMO"
+    },
+    "button_tryAgain": "DEMO",
+    "button_ok": "OK",
+    "button_exit": "VERLATEN",
+    
+    "error_button_exit": "VERLATEN",
+    "error_title": "FOUT",
+    
+    "message_nonWin": "HELAAS, GEEN WINST.",
+    "message_win": {
+      "BUY": "PROFICIAT! JE WINT!",
+      "TRY": "EEN DEMOSPEL GEEFT GEEN RECHT OP ENIGE WINST."
+    },
+
+    "howToPlay": "HOE SPELEN?",
+    "page1_line1": "[7]Ontdek een symbool 7 om te winnen.",
+    "page1_line2": "[77]Ontdek een dubbel symbool 7 om je winstbedrag te verdubbelen.",
+    "page1_line3": "[777]Ontdek een driedubbel symbool 7 om je winstbedrag te verdrievoudigen.",
+    "page1_line4": "[RUBY]Ontdek 3 of meer Bonussymbolen “Robijn”, en neem deel aan het Bonusspel.",
+
+    "page2_line1": "[WHEEL]Draai aan het rad om het spel te starten.",
+    "page2_line2": "[WHEELPRIZE]Win het bedrag waarnaar de pijl staat gericht zodra het rad stilvalt.",
+    "page2_line3": "[WHEELARROW]Ga naar het volgende rad zodra de pijl een symbool “Pijl” aanwijst.",
+    "page2_line4": "[WHEELX]Wanneer je op symbool “X” valt, dan verdwijnt één symbool “Robijn” uit de legende.\nHet Bonusspel eindigt zodra de Bonuslegende geen enkele robijn meer bevat.",
+
+    "winUpTo": "WIN TOT",
+    "bonus": "BONUS",
+    "bonusNoWin": "HELAAS, GEEN WINST.",
+    "bonusWin": "WINST",
+    "totalWin": "TOTALE WINST",
+    "infoBarText":"VIND ROBIJNRODE [7sLOGO] OM TE WINNEN!",
+    "bonusInfo":"GA NAAR HET BONUSSPEL\nMET 3 OF MEER ROBIJNEN",
+    "bonusInfo2":"Geen robijnen meer =\nEinde van het Bonusspel",
+
+    "bonusSpinButton":"DRAAIEN",
+    "respin":"DRAAIEN",
+
+    "yourNumbers": "JE NUMMERS",
+    "luckyNumbers": "GELUKSNUMMERS"
+  }
+}

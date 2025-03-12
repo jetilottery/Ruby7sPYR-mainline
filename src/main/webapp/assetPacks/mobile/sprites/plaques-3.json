@@ -1,0 +1,21 @@
+{"frames": {
+
+"Timeout_plaque_Portrait":
+{
+	"frame": {"x":3,"y":3,"w":800,"h":452},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":452},
+	"sourceSize": {"w":800,"h":452},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "plaques-3.png",
+	"format": "RGBA8888",
+	"size": {"w":806,"h":458},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:df85949fa515a77c9f5c287f963c4806:0aca377f6936f173e66e6eda98a0cb71:0136194d2339e82a5070d8e97ee180c7$"
+}
+}

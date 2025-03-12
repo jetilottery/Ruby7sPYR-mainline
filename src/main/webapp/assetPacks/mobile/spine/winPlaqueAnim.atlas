@@ -1,0 +1,710 @@
+
+winPlaqueAnim.jpg
+size: 604,604
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+winPlaqueAnim-assets/FX/lightPing
+  rotate: false
+  xy: 2, 2
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+
+winPlaqueAnim2.jpg
+size: 363,1021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+winPlaqueAnim-assets/gemParticle/gemSpin_00
+  rotate: false
+  xy: 250, 188
+  size: 111, 96
+  orig: 200, 200
+  offset: 42, 55
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_01
+  rotate: false
+  xy: 250, 188
+  size: 111, 96
+  orig: 200, 200
+  offset: 42, 55
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_02
+  rotate: false
+  xy: 123, 116
+  size: 117, 91
+  orig: 200, 200
+  offset: 35, 60
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_03
+  rotate: false
+  xy: 2, 629
+  size: 126, 87
+  orig: 200, 200
+  offset: 32, 63
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_04
+  rotate: false
+  xy: 129, 511
+  size: 125, 82
+  orig: 200, 200
+  offset: 32, 66
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_05
+  rotate: false
+  xy: 128, 322
+  size: 123, 94
+  orig: 200, 200
+  offset: 33, 57
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_06
+  rotate: true
+  xy: 257, 529
+  size: 119, 104
+  orig: 200, 200
+  offset: 35, 50
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_07
+  rotate: false
+  xy: 130, 595
+  size: 125, 111
+  orig: 200, 200
+  offset: 33, 46
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_08
+  rotate: false
+  xy: 2, 906
+  size: 128, 113
+  orig: 200, 200
+  offset: 30, 41
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_09
+  rotate: false
+  xy: 132, 913
+  size: 128, 106
+  orig: 200, 200
+  offset: 30, 43
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_10
+  rotate: false
+  xy: 132, 816
+  size: 128, 95
+  orig: 200, 200
+  offset: 30, 43
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_11
+  rotate: false
+  xy: 2, 818
+  size: 128, 86
+  orig: 200, 200
+  offset: 30, 47
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_12
+  rotate: false
+  xy: 128, 418
+  size: 124, 91
+  orig: 200, 200
+  offset: 31, 46
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_13
+  rotate: false
+  xy: 2, 120
+  size: 119, 92
+  orig: 200, 200
+  offset: 34, 46
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_14
+  rotate: false
+  xy: 242, 94
+  size: 115, 92
+  orig: 200, 200
+  offset: 38, 48
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_15
+  rotate: false
+  xy: 232, 2
+  size: 106, 90
+  orig: 200, 200
+  offset: 45, 51
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_16
+  rotate: false
+  xy: 2, 25
+  size: 115, 93
+  orig: 200, 200
+  offset: 38, 49
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_17
+  rotate: true
+  xy: 262, 773
+  size: 118, 97
+  orig: 200, 200
+  offset: 34, 46
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_18
+  rotate: true
+  xy: 253, 286
+  size: 120, 107
+  orig: 200, 200
+  offset: 32, 38
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_19
+  rotate: true
+  xy: 262, 893
+  size: 126, 99
+  orig: 200, 200
+  offset: 30, 38
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_20
+  rotate: false
+  xy: 2, 718
+  size: 127, 98
+  orig: 200, 200
+  offset: 30, 42
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_21
+  rotate: false
+  xy: 131, 708
+  size: 126, 106
+  orig: 200, 200
+  offset: 31, 39
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_22
+  rotate: false
+  xy: 2, 517
+  size: 125, 110
+  orig: 200, 200
+  offset: 31, 40
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_23
+  rotate: false
+  xy: 127, 209
+  size: 121, 111
+  orig: 200, 200
+  offset: 34, 46
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_24
+  rotate: true
+  xy: 256, 408
+  size: 119, 104
+  orig: 200, 200
+  offset: 35, 57
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_25
+  rotate: true
+  xy: 259, 650
+  size: 121, 100
+  orig: 200, 200
+  offset: 34, 62
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_26
+  rotate: false
+  xy: 2, 312
+  size: 123, 94
+  orig: 200, 200
+  offset: 33, 66
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_27
+  rotate: false
+  xy: 2, 408
+  size: 124, 107
+  orig: 200, 200
+  offset: 33, 56
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_28
+  rotate: false
+  xy: 2, 214
+  size: 119, 96
+  orig: 200, 200
+  offset: 35, 58
+  index: -1
+winPlaqueAnim-assets/gemParticle/gemSpin_29
+  rotate: false
+  xy: 119, 18
+  size: 111, 96
+  orig: 200, 200
+  offset: 42, 54
+  index: -1
+
+winPlaqueAnim3.jpg
+size: 2012,1986
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+winPlaqueAnim-assets/jemBurst/gemBurst_01
+  rotate: false
+  xy: 999, 1282
+  size: 31, 39
+  orig: 750, 750
+  offset: 360, 357
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_03
+  rotate: true
+  xy: 1440, 2
+  size: 33, 46
+  orig: 750, 750
+  offset: 354, 349
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_05
+  rotate: false
+  xy: 712, 483
+  size: 61, 78
+  orig: 750, 750
+  offset: 339, 331
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_07
+  rotate: false
+  xy: 1844, 72
+  size: 89, 109
+  orig: 750, 750
+  offset: 324, 312
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_09
+  rotate: false
+  xy: 1844, 183
+  size: 118, 140
+  orig: 750, 750
+  offset: 308, 291
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_11
+  rotate: false
+  xy: 1697, 32
+  size: 145, 172
+  orig: 750, 750
+  offset: 293, 269
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_13
+  rotate: false
+  xy: 1669, 206
+  size: 173, 203
+  orig: 750, 750
+  offset: 278, 246
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_15
+  rotate: true
+  xy: 478, 425
+  size: 199, 232
+  orig: 750, 750
+  offset: 264, 223
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_17
+  rotate: false
+  xy: 1440, 146
+  size: 227, 263
+  orig: 750, 750
+  offset: 249, 196
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_19
+  rotate: true
+  xy: 1570, 542
+  size: 253, 294
+  orig: 750, 750
+  offset: 235, 168
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_21
+  rotate: false
+  xy: 1160, 22
+  size: 278, 321
+  orig: 750, 750
+  offset: 221, 141
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_23
+  rotate: true
+  xy: 807, 40
+  size: 303, 351
+  orig: 750, 750
+  offset: 207, 111
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_25
+  rotate: true
+  xy: 1623, 1657
+  size: 327, 380
+  orig: 750, 750
+  offset: 193, 79
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_27
+  rotate: false
+  xy: 454, 2
+  size: 351, 408
+  orig: 750, 750
+  offset: 180, 47
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_29
+  rotate: true
+  xy: 501, 626
+  size: 376, 437
+  orig: 750, 750
+  offset: 166, 14
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_31
+  rotate: false
+  xy: 1606, 1237
+  size: 401, 418
+  orig: 750, 750
+  offset: 153, 27
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_33
+  rotate: false
+  xy: 1584, 797
+  size: 426, 438
+  orig: 750, 750
+  offset: 140, 0
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_35
+  rotate: false
+  xy: 2, 2
+  size: 450, 408
+  orig: 750, 750
+  offset: 128, 21
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_37
+  rotate: false
+  xy: 2, 412
+  size: 474, 395
+  orig: 750, 750
+  offset: 115, 22
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_39
+  rotate: false
+  xy: 2, 809
+  size: 497, 405
+  orig: 750, 750
+  offset: 102, 1
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_41
+  rotate: false
+  xy: 2, 1216
+  size: 517, 387
+  orig: 750, 750
+  offset: 92, 6
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_43
+  rotate: false
+  xy: 2, 1605
+  size: 535, 379
+  orig: 750, 750
+  offset: 84, 0
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_45
+  rotate: false
+  xy: 521, 1004
+  size: 476, 317
+  orig: 750, 750
+  offset: 153, 47
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_47
+  rotate: false
+  xy: 539, 1323
+  size: 496, 329
+  orig: 750, 750
+  offset: 143, 19
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_49
+  rotate: false
+  xy: 539, 1654
+  size: 515, 330
+  orig: 750, 750
+  offset: 134, 0
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_51
+  rotate: false
+  xy: 1037, 1182
+  size: 531, 259
+  orig: 750, 750
+  offset: 127, 50
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_53
+  rotate: false
+  xy: 1056, 1443
+  size: 548, 268
+  orig: 750, 750
+  offset: 118, 23
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_55
+  rotate: false
+  xy: 1056, 1713
+  size: 565, 271
+  orig: 750, 750
+  offset: 109, 0
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_57
+  rotate: false
+  xy: 999, 935
+  size: 583, 245
+  orig: 750, 750
+  offset: 101, 5
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_59
+  rotate: false
+  xy: 807, 345
+  size: 594, 206
+  orig: 750, 750
+  offset: 99, 20
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_61
+  rotate: false
+  xy: 940, 733
+  size: 610, 200
+  orig: 750, 750
+  offset: 91, 6
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_63
+  rotate: false
+  xy: 940, 553
+  size: 628, 178
+  orig: 750, 750
+  offset: 83, 6
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_65
+  rotate: false
+  xy: 1403, 411
+  size: 461, 129
+  orig: 750, 750
+  offset: 76, 30
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_67
+  rotate: true
+  xy: 1866, 325
+  size: 470, 128
+  orig: 750, 750
+  offset: 71, 6
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_69
+  rotate: false
+  xy: 1440, 37
+  size: 255, 107
+  orig: 750, 750
+  offset: 288, 1
+  index: -1
+winPlaqueAnim-assets/jemBurst/gemBurst_71
+  rotate: false
+  xy: 712, 563
+  size: 156, 61
+  orig: 750, 750
+  offset: 308, 21
+  index: -1
+
+winPlaqueAnim4.jpg
+size: 1826,1247
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+winPlaqueAnim-assets/winBox_FX/winBox_FX_00
+  rotate: false
+  xy: 2, 908
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_16
+  rotate: false
+  xy: 2, 908
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_01
+  rotate: false
+  xy: 2, 569
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_02
+  rotate: false
+  xy: 230, 908
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_03
+  rotate: false
+  xy: 2, 230
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_04
+  rotate: false
+  xy: 230, 569
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_05
+  rotate: false
+  xy: 458, 908
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_06
+  rotate: false
+  xy: 230, 230
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_07
+  rotate: true
+  xy: 2, 2
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_08
+  rotate: false
+  xy: 458, 569
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_09
+  rotate: false
+  xy: 686, 908
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_10
+  rotate: false
+  xy: 458, 230
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_11
+  rotate: true
+  xy: 341, 2
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_12
+  rotate: false
+  xy: 686, 569
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_13
+  rotate: false
+  xy: 914, 908
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_14
+  rotate: false
+  xy: 686, 230
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_15
+  rotate: false
+  xy: 914, 569
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_30
+  rotate: false
+  xy: 914, 569
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_17
+  rotate: false
+  xy: 1142, 908
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_18
+  rotate: false
+  xy: 914, 230
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_19
+  rotate: true
+  xy: 680, 2
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_20
+  rotate: false
+  xy: 1142, 569
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_21
+  rotate: false
+  xy: 1370, 908
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_22
+  rotate: false
+  xy: 1142, 230
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_23
+  rotate: true
+  xy: 1019, 2
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_24
+  rotate: false
+  xy: 1370, 569
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_25
+  rotate: false
+  xy: 1598, 908
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_26
+  rotate: false
+  xy: 1370, 230
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_27
+  rotate: false
+  xy: 1598, 569
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_28
+  rotate: false
+  xy: 1598, 230
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1
+winPlaqueAnim-assets/winBox_FX/winBox_FX_29
+  rotate: true
+  xy: 1358, 2
+  size: 226, 337
+  orig: 226, 337
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,110 @@
+{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "{@minRTP}% a {@maxRTP}%",
+        "paybackTitle": "Retorno estimado",
+        "paybackBody": "Para este juego, el retorno estimado a largo plazo es del {RTP}.",
+        "subheading": "Costo del Ticket: {ticketCost}",
+        "prizeLevel": "Nivel de premio",
+        "prizeValue": "Valor de premio",
+        "overallChances": "Hay una probabilidad de 1 en {odds} de ganar un premio con cada jugada.",
+        "prizeDivision": "División de premio",
+        "prizeRemaining": "Premios restantes aproximados",
+        "oddsPerPlay": "Probabilidades por jugada"
+    },
+    "title": "DISEÑO",
+    "MenuCommand":
+    {
+        "price": "Precio",
+        "stake": "Apuesta",
+        "howToPlay": "Ayuda",
+        "paytable": "Tabla de premios",
+        "close": "Cerrar",
+        "audio":
+        {
+            "sound": "Sonido",
+            "on": "Activar",
+            "off": "Desactivar"
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Error: ",
+        "genericErrorText": "Se produjo un error interno. Presiona SALIR y vuelve a abrir el juego."
+    },
+    "Game":
+    {
+        "footer_balance": "SALDO",
+        "footer_ticketCost": "COSTO DEL TICKET:",
+        "ticketSelect_ticketCost": "COSTO DEL TICKET:",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "PRUEBA "
+        },
+        "footer_win":
+        {
+            "BUY": "PREMIO",
+            "TRY": "PREMIO DE PRUEBA"
+        },
+
+        "button_buy":
+        {
+            "BUY": "COMPRAR",
+            "TRY": "PRUEBE"
+        },
+        "button_try": "PRUEBE",
+        "button_retry": "REINTENTAR",
+        "button_continue": "CONTINUAR",
+        "button_moveToMoney": "JUGAR POR DINERO",
+        "button_autoPlay": "JUGADA AUTOMÁTICA",
+        "button_stop": "DETENER",
+        "button_playAgain":
+        {
+            "BUY": "JUGAR DE NUEVO",
+            "TRY": "INTENTAR DE NUEVO"
+        },
+        "button_tryAgain": "INTENTAR DE NUEVO",
+        "button_ok": "ACEPTAR",
+        "button_exit": "SALIR",
+
+        "error_button_exit": "SALIR",
+        "error_title": "ERROR",
+
+        "message_nonWin": "SUERTE LA\nPRÓXIMA VEZ",
+        "message_win":
+        {
+            "BUY": "FELICITACIONES!\nHA GANADO",
+            "TRY": "GRACIAS POR JUGAR!\nPODRÍA HABER GANADO"
+        },
+
+        "howToPlay": "CÓMO JUGAR",
+        "page1_line1": "[7]Consiga un símbolo 7 individual para ganar el premio correspondiente.",
+        "page1_line2": "[77]Consiga un símbolo 7 doble para duplicar el premio correspondiente.",
+        "page1_line3": "[777]Consiga un símbolo 7 triple para triplicar el premio correspondiente.",
+        "page1_line4": "[RUBY]Consiga 3 símbolos de bonificación del rubí para iniciar el juego de bonificación.",
+
+        "page2_line1": "[WHEEL]Gire la ruleta para iniciar el juego de bonificación.",
+        "page2_line2": "[WHEELPRIZE]Gane un premio cuando el puntero se detenga en una casilla con un valor de premio.",
+        "page2_line3": "[WHEELARROW]Avance a la siguiente ruleta cuando el puntero se detenga en el símbolo de la flecha.",
+        "page2_line4": "[WHEELX]Si se detiene en una X roja, se eliminará un rubí de bonificación. \nEl juego de bonificación termina cuando no le queden más rubíes de bonificación.",
+
+
+        "winUpTo": "¡GANE HASTA",
+        "bonus": "BONIFICACIÓN",
+        "bonusNoWin": "PREMIO SIN BONIFICACIÓN",
+        "bonusWin": "PREMIO DE BONIFICACIÓN",
+        "totalWin": "GANANCIA TOTAL",
+        "infoBarText": "¡ENCUENTRE EL [7sLOGO]DE RUBÍ PARA GANAR!",
+        "bonusInfo": "3 o más desbloquean\nla bonificación",
+        "bonusInfo2": "Cero rubíes = fin de la bonificación",
+
+        "bonusSpinButton": "bonificaciónGirarBotón",
+        "respin": "Regiro",
+
+        "yourNumbers": "SUS NÚMEROS",
+        "luckyNumbers": "NÚMEROS DE LA SUERTE"
+    }
+}

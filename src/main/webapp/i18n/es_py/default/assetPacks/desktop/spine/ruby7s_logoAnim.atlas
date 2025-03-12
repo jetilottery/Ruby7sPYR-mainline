@@ -1,0 +1,4713 @@
+
+ruby7s_logoAnim.png
+size: 478,610
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ruby7sLogoAnim-assets/7Back
+  rotate: true
+  xy: 2, 2
+  size: 260, 320
+  orig: 550, 550
+  offset: 141, 119
+  index: -1
+ruby7sLogoAnim-assets/7Front
+  rotate: true
+  xy: 2, 264
+  size: 344, 433
+  orig: 550, 550
+  offset: 98, 47
+  index: -1
+ruby7sLogoAnim-assets/s_00
+  rotate: false
+  xy: 324, 99
+  size: 152, 163
+  orig: 550, 550
+  offset: 294, 46
+  index: -1
+
+ruby7s_logoAnim.jpg
+size: 203,203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ruby7sLogoAnim-assets/FX/lightPing
+  rotate: false
+  xy: 2, 2
+  size: 199, 199
+  orig: 720, 720
+  offset: 260, 260
+  index: -1
+
+ruby7s_logoAnim2.jpg
+size: 1654,842
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_100
+  rotate: true
+  xy: 506, 422
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_101
+  rotate: true
+  xy: 674, 422
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_102
+  rotate: true
+  xy: 842, 422
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_103
+  rotate: true
+  xy: 1010, 422
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_104
+  rotate: true
+  xy: 1178, 422
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_105
+  rotate: true
+  xy: 1346, 422
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_106
+  rotate: true
+  xy: 1346, 422
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_107
+  rotate: false
+  xy: 1514, 338
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_108
+  rotate: true
+  xy: 2, 282
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_109
+  rotate: true
+  xy: 170, 282
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_110
+  rotate: true
+  xy: 338, 282
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_111
+  rotate: true
+  xy: 506, 282
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_112
+  rotate: true
+  xy: 674, 282
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_113
+  rotate: true
+  xy: 842, 282
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_114
+  rotate: true
+  xy: 1010, 282
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_115
+  rotate: true
+  xy: 1178, 282
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_116
+  rotate: true
+  xy: 1346, 282
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_117
+  rotate: true
+  xy: 1346, 282
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_118
+  rotate: false
+  xy: 1514, 170
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_119
+  rotate: true
+  xy: 2, 142
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_120
+  rotate: true
+  xy: 170, 142
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_121
+  rotate: true
+  xy: 338, 142
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_122
+  rotate: true
+  xy: 506, 142
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_123
+  rotate: true
+  xy: 674, 142
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_124
+  rotate: true
+  xy: 842, 142
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_125
+  rotate: true
+  xy: 1010, 142
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_126
+  rotate: true
+  xy: 1178, 142
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_127
+  rotate: true
+  xy: 1346, 142
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_128
+  rotate: true
+  xy: 1346, 142
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_129
+  rotate: true
+  xy: 2, 2
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_130
+  rotate: true
+  xy: 170, 2
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_131
+  rotate: true
+  xy: 338, 2
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_132
+  rotate: true
+  xy: 506, 2
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_133
+  rotate: true
+  xy: 674, 2
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_134
+  rotate: true
+  xy: 842, 2
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_135
+  rotate: true
+  xy: 1010, 2
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_136
+  rotate: true
+  xy: 1178, 2
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_137
+  rotate: true
+  xy: 1346, 2
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_74
+  rotate: true
+  xy: 2, 702
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_138
+  rotate: true
+  xy: 2, 702
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_75
+  rotate: true
+  xy: 170, 702
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_76
+  rotate: true
+  xy: 338, 702
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_77
+  rotate: true
+  xy: 338, 702
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_78
+  rotate: true
+  xy: 506, 702
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_79
+  rotate: true
+  xy: 674, 702
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_80
+  rotate: true
+  xy: 674, 702
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_81
+  rotate: true
+  xy: 842, 702
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_82
+  rotate: true
+  xy: 1010, 702
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_83
+  rotate: true
+  xy: 1178, 702
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_84
+  rotate: true
+  xy: 1346, 702
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_85
+  rotate: false
+  xy: 1514, 674
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_86
+  rotate: true
+  xy: 2, 562
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_87
+  rotate: true
+  xy: 170, 562
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_88
+  rotate: true
+  xy: 338, 562
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_89
+  rotate: true
+  xy: 506, 562
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_90
+  rotate: true
+  xy: 674, 562
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_91
+  rotate: true
+  xy: 674, 562
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_92
+  rotate: true
+  xy: 842, 562
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_93
+  rotate: true
+  xy: 1010, 562
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_94
+  rotate: true
+  xy: 1178, 562
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_95
+  rotate: true
+  xy: 1346, 562
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_96
+  rotate: false
+  xy: 1514, 506
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_97
+  rotate: true
+  xy: 2, 422
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_98
+  rotate: true
+  xy: 170, 422
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+ruby7sLogoAnim-assets/FX/7GemShower/7GemShower_99
+  rotate: true
+  xy: 338, 422
+  size: 138, 166
+  orig: 275, 275
+  offset: 66, 57
+  index: -1
+
+ruby7s_logoAnim3.jpg
+size: 1940,1919
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_00
+  rotate: false
+  xy: 2, 1798
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_299
+  rotate: false
+  xy: 2, 1798
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_01
+  rotate: false
+  xy: 2, 1677
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_02
+  rotate: false
+  xy: 104, 1798
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_03
+  rotate: false
+  xy: 2, 1556
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_04
+  rotate: false
+  xy: 104, 1677
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_05
+  rotate: false
+  xy: 206, 1798
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_06
+  rotate: false
+  xy: 2, 1435
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_07
+  rotate: false
+  xy: 104, 1556
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_08
+  rotate: false
+  xy: 206, 1677
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_09
+  rotate: false
+  xy: 308, 1798
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_10
+  rotate: false
+  xy: 2, 1314
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_100
+  rotate: false
+  xy: 920, 1314
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_101
+  rotate: false
+  xy: 1022, 1435
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_102
+  rotate: false
+  xy: 1124, 1556
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_103
+  rotate: false
+  xy: 1226, 1677
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_104
+  rotate: false
+  xy: 1328, 1798
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_105
+  rotate: false
+  xy: 2, 104
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_106
+  rotate: false
+  xy: 104, 225
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_107
+  rotate: false
+  xy: 206, 346
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_108
+  rotate: false
+  xy: 308, 467
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_109
+  rotate: false
+  xy: 410, 588
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_11
+  rotate: false
+  xy: 104, 1435
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_110
+  rotate: false
+  xy: 512, 709
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_111
+  rotate: false
+  xy: 614, 830
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_112
+  rotate: false
+  xy: 716, 951
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_113
+  rotate: false
+  xy: 818, 1072
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_114
+  rotate: false
+  xy: 920, 1193
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_115
+  rotate: false
+  xy: 1022, 1314
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_116
+  rotate: false
+  xy: 1124, 1435
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_117
+  rotate: false
+  xy: 1226, 1556
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_118
+  rotate: false
+  xy: 1328, 1677
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_119
+  rotate: false
+  xy: 1430, 1798
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_12
+  rotate: false
+  xy: 206, 1556
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_120
+  rotate: false
+  xy: 104, 104
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_121
+  rotate: true
+  xy: 2, 2
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_122
+  rotate: false
+  xy: 206, 225
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_123
+  rotate: false
+  xy: 308, 346
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_124
+  rotate: false
+  xy: 410, 467
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_125
+  rotate: false
+  xy: 512, 588
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_126
+  rotate: false
+  xy: 614, 709
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_127
+  rotate: false
+  xy: 716, 830
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_128
+  rotate: false
+  xy: 818, 951
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_129
+  rotate: false
+  xy: 920, 1072
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_13
+  rotate: false
+  xy: 308, 1677
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_130
+  rotate: false
+  xy: 1022, 1193
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_131
+  rotate: false
+  xy: 1124, 1314
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_132
+  rotate: false
+  xy: 1226, 1435
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_133
+  rotate: false
+  xy: 1328, 1556
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_134
+  rotate: false
+  xy: 1430, 1677
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_135
+  rotate: false
+  xy: 1532, 1798
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_136
+  rotate: false
+  xy: 206, 104
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_137
+  rotate: true
+  xy: 123, 2
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_138
+  rotate: false
+  xy: 308, 225
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_139
+  rotate: false
+  xy: 410, 346
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_14
+  rotate: false
+  xy: 410, 1798
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_140
+  rotate: false
+  xy: 512, 467
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_141
+  rotate: false
+  xy: 614, 588
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_142
+  rotate: false
+  xy: 716, 709
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_143
+  rotate: false
+  xy: 818, 830
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_144
+  rotate: false
+  xy: 920, 951
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_145
+  rotate: false
+  xy: 1022, 1072
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_146
+  rotate: false
+  xy: 1124, 1193
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_147
+  rotate: false
+  xy: 1226, 1314
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_148
+  rotate: false
+  xy: 1328, 1435
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_149
+  rotate: false
+  xy: 1430, 1556
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_15
+  rotate: false
+  xy: 2, 1193
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_150
+  rotate: false
+  xy: 1532, 1677
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_151
+  rotate: false
+  xy: 1634, 1798
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_152
+  rotate: false
+  xy: 308, 104
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_153
+  rotate: true
+  xy: 244, 2
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_154
+  rotate: false
+  xy: 410, 225
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_155
+  rotate: false
+  xy: 512, 346
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_156
+  rotate: false
+  xy: 614, 467
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_157
+  rotate: false
+  xy: 716, 588
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_158
+  rotate: false
+  xy: 818, 709
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_159
+  rotate: false
+  xy: 920, 830
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_16
+  rotate: false
+  xy: 104, 1314
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_160
+  rotate: false
+  xy: 1022, 951
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_161
+  rotate: false
+  xy: 1124, 1072
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_162
+  rotate: false
+  xy: 1226, 1193
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_163
+  rotate: false
+  xy: 1328, 1314
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_164
+  rotate: false
+  xy: 1430, 1435
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_165
+  rotate: false
+  xy: 1532, 1556
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_166
+  rotate: false
+  xy: 1634, 1677
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_167
+  rotate: false
+  xy: 1736, 1798
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_168
+  rotate: false
+  xy: 410, 104
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_169
+  rotate: true
+  xy: 365, 2
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_17
+  rotate: false
+  xy: 206, 1435
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_170
+  rotate: false
+  xy: 512, 225
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_171
+  rotate: false
+  xy: 614, 346
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_172
+  rotate: false
+  xy: 716, 467
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_173
+  rotate: false
+  xy: 818, 588
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_174
+  rotate: false
+  xy: 920, 709
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_175
+  rotate: false
+  xy: 1022, 830
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_176
+  rotate: false
+  xy: 1124, 951
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_177
+  rotate: false
+  xy: 1226, 1072
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_178
+  rotate: false
+  xy: 1328, 1193
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_179
+  rotate: false
+  xy: 1430, 1314
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_18
+  rotate: false
+  xy: 308, 1556
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_180
+  rotate: false
+  xy: 1532, 1435
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_181
+  rotate: false
+  xy: 1634, 1556
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_182
+  rotate: false
+  xy: 1736, 1677
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_183
+  rotate: false
+  xy: 1838, 1798
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_184
+  rotate: false
+  xy: 512, 104
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_185
+  rotate: true
+  xy: 486, 2
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_186
+  rotate: false
+  xy: 614, 225
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_187
+  rotate: false
+  xy: 716, 346
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_188
+  rotate: false
+  xy: 818, 467
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_189
+  rotate: false
+  xy: 920, 588
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_19
+  rotate: false
+  xy: 410, 1677
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_190
+  rotate: false
+  xy: 1022, 709
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_191
+  rotate: false
+  xy: 1124, 830
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_192
+  rotate: false
+  xy: 1226, 951
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_193
+  rotate: false
+  xy: 1328, 1072
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_194
+  rotate: false
+  xy: 1430, 1193
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_195
+  rotate: false
+  xy: 1532, 1314
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_196
+  rotate: false
+  xy: 1634, 1435
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_197
+  rotate: false
+  xy: 1736, 1556
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_198
+  rotate: false
+  xy: 1838, 1677
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_199
+  rotate: false
+  xy: 614, 104
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_20
+  rotate: false
+  xy: 512, 1798
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_200
+  rotate: false
+  xy: 716, 225
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_201
+  rotate: false
+  xy: 818, 346
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_202
+  rotate: false
+  xy: 920, 467
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_203
+  rotate: false
+  xy: 1022, 588
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_204
+  rotate: false
+  xy: 1124, 709
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_205
+  rotate: false
+  xy: 1226, 830
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_206
+  rotate: false
+  xy: 1328, 951
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_207
+  rotate: false
+  xy: 1430, 1072
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_208
+  rotate: false
+  xy: 1532, 1193
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_209
+  rotate: false
+  xy: 1634, 1314
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_21
+  rotate: false
+  xy: 2, 1072
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_210
+  rotate: false
+  xy: 1736, 1435
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_211
+  rotate: false
+  xy: 1838, 1556
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_212
+  rotate: false
+  xy: 716, 104
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_213
+  rotate: true
+  xy: 607, 2
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_214
+  rotate: false
+  xy: 818, 225
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_215
+  rotate: false
+  xy: 920, 346
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_216
+  rotate: false
+  xy: 1022, 467
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_217
+  rotate: false
+  xy: 1124, 588
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_218
+  rotate: false
+  xy: 1226, 709
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_219
+  rotate: false
+  xy: 1328, 830
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_22
+  rotate: false
+  xy: 104, 1193
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_220
+  rotate: false
+  xy: 1430, 951
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_221
+  rotate: false
+  xy: 1532, 1072
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_222
+  rotate: false
+  xy: 1634, 1193
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_223
+  rotate: false
+  xy: 1736, 1314
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_224
+  rotate: false
+  xy: 1838, 1435
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_225
+  rotate: false
+  xy: 818, 104
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_226
+  rotate: true
+  xy: 728, 2
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_227
+  rotate: false
+  xy: 920, 225
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_228
+  rotate: false
+  xy: 1022, 346
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_229
+  rotate: false
+  xy: 1124, 467
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_23
+  rotate: false
+  xy: 206, 1314
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_230
+  rotate: false
+  xy: 1226, 588
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_231
+  rotate: false
+  xy: 1328, 709
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_232
+  rotate: false
+  xy: 1430, 830
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_233
+  rotate: false
+  xy: 1532, 951
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_234
+  rotate: false
+  xy: 1634, 1072
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_235
+  rotate: false
+  xy: 1736, 1193
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_236
+  rotate: false
+  xy: 1838, 1314
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_237
+  rotate: false
+  xy: 920, 104
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_238
+  rotate: true
+  xy: 849, 2
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_239
+  rotate: false
+  xy: 1022, 225
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_24
+  rotate: false
+  xy: 308, 1435
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_240
+  rotate: false
+  xy: 1124, 346
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_241
+  rotate: false
+  xy: 1226, 467
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_242
+  rotate: false
+  xy: 1328, 588
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_243
+  rotate: false
+  xy: 1430, 709
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_244
+  rotate: false
+  xy: 1532, 830
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_245
+  rotate: false
+  xy: 1634, 951
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_246
+  rotate: false
+  xy: 1736, 1072
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_247
+  rotate: false
+  xy: 1838, 1193
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_248
+  rotate: false
+  xy: 1022, 104
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_249
+  rotate: true
+  xy: 970, 2
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_25
+  rotate: false
+  xy: 410, 1556
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_250
+  rotate: false
+  xy: 1124, 225
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_251
+  rotate: false
+  xy: 1226, 346
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_252
+  rotate: false
+  xy: 1328, 467
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_253
+  rotate: false
+  xy: 1430, 588
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_254
+  rotate: false
+  xy: 1532, 709
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_255
+  rotate: false
+  xy: 1634, 830
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_256
+  rotate: false
+  xy: 1736, 951
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_257
+  rotate: false
+  xy: 1838, 1072
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_258
+  rotate: false
+  xy: 1124, 104
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_259
+  rotate: true
+  xy: 1091, 2
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_26
+  rotate: false
+  xy: 512, 1677
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_260
+  rotate: false
+  xy: 1226, 225
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_261
+  rotate: false
+  xy: 1328, 346
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_262
+  rotate: false
+  xy: 1430, 467
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_263
+  rotate: false
+  xy: 1532, 588
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_264
+  rotate: false
+  xy: 1634, 709
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_265
+  rotate: false
+  xy: 1736, 830
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_266
+  rotate: false
+  xy: 1838, 951
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_267
+  rotate: false
+  xy: 1226, 104
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_268
+  rotate: false
+  xy: 1328, 225
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_269
+  rotate: false
+  xy: 1430, 346
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_27
+  rotate: false
+  xy: 614, 1798
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_270
+  rotate: false
+  xy: 1532, 467
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_271
+  rotate: false
+  xy: 1634, 588
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_272
+  rotate: false
+  xy: 1736, 709
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_273
+  rotate: false
+  xy: 1838, 830
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_274
+  rotate: false
+  xy: 1328, 104
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_275
+  rotate: true
+  xy: 1212, 2
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_276
+  rotate: false
+  xy: 1430, 225
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_277
+  rotate: false
+  xy: 1532, 346
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_278
+  rotate: false
+  xy: 1634, 467
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_279
+  rotate: false
+  xy: 1736, 588
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_28
+  rotate: false
+  xy: 2, 951
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_280
+  rotate: false
+  xy: 1838, 709
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_281
+  rotate: false
+  xy: 1430, 104
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_282
+  rotate: true
+  xy: 1333, 2
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_283
+  rotate: false
+  xy: 1532, 225
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_284
+  rotate: false
+  xy: 1634, 346
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_285
+  rotate: false
+  xy: 1736, 467
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_286
+  rotate: false
+  xy: 1838, 588
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_287
+  rotate: false
+  xy: 1532, 104
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_288
+  rotate: true
+  xy: 1454, 2
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_289
+  rotate: false
+  xy: 1634, 225
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_29
+  rotate: false
+  xy: 104, 1072
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_290
+  rotate: false
+  xy: 1736, 346
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_291
+  rotate: false
+  xy: 1838, 467
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_292
+  rotate: false
+  xy: 1634, 104
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_293
+  rotate: true
+  xy: 1575, 2
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_294
+  rotate: false
+  xy: 1736, 225
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_295
+  rotate: false
+  xy: 1838, 346
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_296
+  rotate: false
+  xy: 1736, 104
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_297
+  rotate: true
+  xy: 1696, 2
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_298
+  rotate: false
+  xy: 1838, 225
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_30
+  rotate: false
+  xy: 206, 1193
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_31
+  rotate: false
+  xy: 308, 1314
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_32
+  rotate: false
+  xy: 410, 1435
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_33
+  rotate: false
+  xy: 512, 1556
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_34
+  rotate: false
+  xy: 614, 1677
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_35
+  rotate: false
+  xy: 716, 1798
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_36
+  rotate: false
+  xy: 2, 830
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_37
+  rotate: false
+  xy: 104, 951
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_38
+  rotate: false
+  xy: 206, 1072
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_39
+  rotate: false
+  xy: 308, 1193
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_40
+  rotate: false
+  xy: 410, 1314
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_41
+  rotate: false
+  xy: 512, 1435
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_42
+  rotate: false
+  xy: 614, 1556
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_43
+  rotate: false
+  xy: 716, 1677
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_44
+  rotate: false
+  xy: 818, 1798
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_45
+  rotate: false
+  xy: 2, 709
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_46
+  rotate: false
+  xy: 104, 830
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_47
+  rotate: false
+  xy: 206, 951
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_48
+  rotate: false
+  xy: 308, 1072
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_49
+  rotate: false
+  xy: 410, 1193
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_50
+  rotate: false
+  xy: 512, 1314
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_51
+  rotate: false
+  xy: 614, 1435
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_52
+  rotate: false
+  xy: 716, 1556
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_53
+  rotate: false
+  xy: 818, 1677
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_54
+  rotate: false
+  xy: 920, 1798
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_55
+  rotate: false
+  xy: 2, 588
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_56
+  rotate: false
+  xy: 104, 709
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_57
+  rotate: false
+  xy: 206, 830
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_58
+  rotate: false
+  xy: 308, 951
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_59
+  rotate: false
+  xy: 410, 1072
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_60
+  rotate: false
+  xy: 512, 1193
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_61
+  rotate: false
+  xy: 614, 1314
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_62
+  rotate: false
+  xy: 716, 1435
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_63
+  rotate: false
+  xy: 818, 1556
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_64
+  rotate: false
+  xy: 920, 1677
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_65
+  rotate: false
+  xy: 1022, 1798
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_66
+  rotate: false
+  xy: 2, 467
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_67
+  rotate: false
+  xy: 104, 588
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_68
+  rotate: false
+  xy: 206, 709
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_69
+  rotate: false
+  xy: 308, 830
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_70
+  rotate: false
+  xy: 410, 951
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_71
+  rotate: false
+  xy: 512, 1072
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_72
+  rotate: false
+  xy: 614, 1193
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_73
+  rotate: false
+  xy: 716, 1314
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_74
+  rotate: false
+  xy: 818, 1435
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_75
+  rotate: false
+  xy: 920, 1556
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_76
+  rotate: false
+  xy: 1022, 1677
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_77
+  rotate: false
+  xy: 1124, 1798
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_78
+  rotate: false
+  xy: 2, 346
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_79
+  rotate: false
+  xy: 104, 467
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_80
+  rotate: false
+  xy: 206, 588
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_81
+  rotate: false
+  xy: 308, 709
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_82
+  rotate: false
+  xy: 410, 830
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_83
+  rotate: false
+  xy: 512, 951
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_84
+  rotate: false
+  xy: 614, 1072
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_85
+  rotate: false
+  xy: 716, 1193
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_86
+  rotate: false
+  xy: 818, 1314
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_87
+  rotate: false
+  xy: 920, 1435
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_88
+  rotate: false
+  xy: 1022, 1556
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_89
+  rotate: false
+  xy: 1124, 1677
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_90
+  rotate: false
+  xy: 1226, 1798
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_91
+  rotate: false
+  xy: 2, 225
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_92
+  rotate: false
+  xy: 104, 346
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_93
+  rotate: false
+  xy: 206, 467
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_94
+  rotate: false
+  xy: 308, 588
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_95
+  rotate: false
+  xy: 410, 709
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_96
+  rotate: false
+  xy: 512, 830
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_97
+  rotate: false
+  xy: 614, 951
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_98
+  rotate: false
+  xy: 716, 1072
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+ruby7sLogoAnim-assets/FX/sparkleFX/sparkleFX_99
+  rotate: false
+  xy: 818, 1193
+  size: 100, 119
+  orig: 138, 138
+  offset: 20, 10
+  index: -1
+
+ruby7s_logoAnim4.jpg
+size: 1861,1793
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_00
+  rotate: true
+  xy: 105, 1523
+  size: 94, 108
+  orig: 138, 138
+  offset: 21, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_01
+  rotate: true
+  xy: 215, 1523
+  size: 94, 108
+  orig: 138, 138
+  offset: 21, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_02
+  rotate: true
+  xy: 325, 1522
+  size: 94, 108
+  orig: 138, 138
+  offset: 21, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_03
+  rotate: true
+  xy: 435, 1521
+  size: 94, 110
+  orig: 138, 138
+  offset: 21, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_04
+  rotate: true
+  xy: 547, 1520
+  size: 94, 112
+  orig: 138, 138
+  offset: 21, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_05
+  rotate: true
+  xy: 661, 1519
+  size: 94, 112
+  orig: 138, 138
+  offset: 21, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_06
+  rotate: true
+  xy: 775, 1517
+  size: 94, 112
+  orig: 138, 138
+  offset: 21, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_07
+  rotate: true
+  xy: 889, 1515
+  size: 94, 111
+  orig: 138, 138
+  offset: 21, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_08
+  rotate: true
+  xy: 1002, 1514
+  size: 94, 111
+  orig: 138, 138
+  offset: 21, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_09
+  rotate: true
+  xy: 1115, 1513
+  size: 94, 111
+  orig: 138, 138
+  offset: 21, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_10
+  rotate: true
+  xy: 1228, 1510
+  size: 94, 111
+  orig: 138, 138
+  offset: 21, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_100
+  rotate: true
+  xy: 440, 634
+  size: 98, 105
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_101
+  rotate: true
+  xy: 547, 634
+  size: 98, 105
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_102
+  rotate: true
+  xy: 654, 634
+  size: 98, 105
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_103
+  rotate: true
+  xy: 761, 634
+  size: 98, 105
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_104
+  rotate: true
+  xy: 868, 630
+  size: 98, 104
+  orig: 138, 138
+  offset: 19, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_105
+  rotate: true
+  xy: 974, 630
+  size: 98, 104
+  orig: 138, 138
+  offset: 19, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_106
+  rotate: true
+  xy: 1080, 630
+  size: 98, 104
+  orig: 138, 138
+  offset: 19, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_107
+  rotate: true
+  xy: 1186, 628
+  size: 98, 104
+  orig: 138, 138
+  offset: 19, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_108
+  rotate: true
+  xy: 1292, 628
+  size: 98, 105
+  orig: 138, 138
+  offset: 19, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_109
+  rotate: true
+  xy: 329, 1036
+  size: 97, 105
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_11
+  rotate: true
+  xy: 1341, 1510
+  size: 94, 112
+  orig: 138, 138
+  offset: 21, 16
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_110
+  rotate: true
+  xy: 436, 1035
+  size: 97, 105
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_111
+  rotate: true
+  xy: 115, 1137
+  size: 96, 105
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_112
+  rotate: true
+  xy: 222, 1136
+  size: 96, 105
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_113
+  rotate: true
+  xy: 329, 1135
+  size: 96, 105
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_114
+  rotate: true
+  xy: 436, 1134
+  size: 96, 105
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_115
+  rotate: true
+  xy: 543, 1133
+  size: 96, 106
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_116
+  rotate: true
+  xy: 651, 1131
+  size: 96, 106
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_117
+  rotate: true
+  xy: 759, 1129
+  size: 96, 106
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_118
+  rotate: true
+  xy: 867, 1127
+  size: 96, 106
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_119
+  rotate: true
+  xy: 975, 1123
+  size: 96, 106
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_12
+  rotate: true
+  xy: 1455, 1510
+  size: 94, 112
+  orig: 138, 138
+  offset: 21, 16
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_120
+  rotate: true
+  xy: 1083, 1123
+  size: 96, 106
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_121
+  rotate: true
+  xy: 1191, 1123
+  size: 96, 106
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_122
+  rotate: true
+  xy: 1299, 1123
+  size: 96, 106
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_123
+  rotate: true
+  xy: 1407, 1121
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_124
+  rotate: true
+  xy: 1516, 1121
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_125
+  rotate: true
+  xy: 1625, 1121
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_126
+  rotate: true
+  xy: 1734, 1120
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_127
+  rotate: true
+  xy: 2, 1039
+  size: 96, 108
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_128
+  rotate: true
+  xy: 112, 1039
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_129
+  rotate: true
+  xy: 865, 1029
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_13
+  rotate: true
+  xy: 1569, 1508
+  size: 94, 112
+  orig: 138, 138
+  offset: 21, 16
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_130
+  rotate: true
+  xy: 974, 1025
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_131
+  rotate: true
+  xy: 1083, 1025
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_132
+  rotate: true
+  xy: 1192, 1025
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_133
+  rotate: true
+  xy: 1407, 1023
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_134
+  rotate: true
+  xy: 1516, 1023
+  size: 96, 108
+  orig: 138, 138
+  offset: 20, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_135
+  rotate: true
+  xy: 1626, 1022
+  size: 96, 108
+  orig: 138, 138
+  offset: 20, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_136
+  rotate: true
+  xy: 1736, 1022
+  size: 96, 108
+  orig: 138, 138
+  offset: 20, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_137
+  rotate: true
+  xy: 2, 941
+  size: 96, 108
+  orig: 138, 138
+  offset: 20, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_138
+  rotate: true
+  xy: 1187, 1221
+  size: 95, 108
+  orig: 138, 138
+  offset: 20, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_139
+  rotate: true
+  xy: 1297, 1221
+  size: 95, 108
+  orig: 138, 138
+  offset: 20, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_14
+  rotate: true
+  xy: 1683, 1508
+  size: 94, 112
+  orig: 138, 138
+  offset: 21, 16
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_140
+  rotate: true
+  xy: 325, 1426
+  size: 94, 108
+  orig: 138, 138
+  offset: 21, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_141
+  rotate: true
+  xy: 435, 1425
+  size: 94, 108
+  orig: 138, 138
+  offset: 21, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_142
+  rotate: true
+  xy: 1341, 1414
+  size: 94, 108
+  orig: 138, 138
+  offset: 21, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_143
+  rotate: true
+  xy: 1451, 1414
+  size: 94, 108
+  orig: 138, 138
+  offset: 21, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_144
+  rotate: true
+  xy: 1561, 1412
+  size: 94, 108
+  orig: 138, 138
+  offset: 21, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_145
+  rotate: true
+  xy: 1671, 1412
+  size: 94, 108
+  orig: 138, 138
+  offset: 21, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_146
+  rotate: true
+  xy: 105, 1331
+  size: 94, 107
+  orig: 138, 138
+  offset: 21, 22
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_147
+  rotate: true
+  xy: 214, 1331
+  size: 94, 107
+  orig: 138, 138
+  offset: 21, 22
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_148
+  rotate: true
+  xy: 323, 1330
+  size: 94, 107
+  orig: 138, 138
+  offset: 21, 22
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_149
+  rotate: true
+  xy: 432, 1329
+  size: 94, 106
+  orig: 138, 138
+  offset: 21, 23
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_15
+  rotate: true
+  xy: 105, 1427
+  size: 94, 112
+  orig: 138, 138
+  offset: 21, 16
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_150
+  rotate: true
+  xy: 540, 1328
+  size: 94, 106
+  orig: 138, 138
+  offset: 21, 23
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_151
+  rotate: true
+  xy: 648, 1327
+  size: 94, 105
+  orig: 138, 138
+  offset: 21, 24
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_152
+  rotate: true
+  xy: 219, 1427
+  size: 94, 104
+  orig: 138, 138
+  offset: 21, 25
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_153
+  rotate: true
+  xy: 755, 1325
+  size: 94, 104
+  orig: 138, 138
+  offset: 21, 25
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_154
+  rotate: true
+  xy: 861, 1323
+  size: 94, 103
+  orig: 138, 138
+  offset: 21, 26
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_155
+  rotate: true
+  xy: 966, 1322
+  size: 94, 102
+  orig: 138, 138
+  offset: 21, 27
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_156
+  rotate: true
+  xy: 2, 1429
+  size: 94, 101
+  orig: 138, 138
+  offset: 21, 28
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_157
+  rotate: true
+  xy: 2, 1333
+  size: 94, 101
+  orig: 138, 138
+  offset: 21, 28
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_158
+  rotate: true
+  xy: 1070, 1321
+  size: 94, 101
+  orig: 138, 138
+  offset: 21, 28
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_159
+  rotate: true
+  xy: 1173, 1318
+  size: 94, 101
+  orig: 138, 138
+  offset: 21, 28
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_16
+  rotate: true
+  xy: 545, 1424
+  size: 94, 112
+  orig: 138, 138
+  offset: 21, 16
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_160
+  rotate: true
+  xy: 1276, 1318
+  size: 94, 101
+  orig: 138, 138
+  offset: 21, 28
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_161
+  rotate: true
+  xy: 1379, 1318
+  size: 94, 101
+  orig: 138, 138
+  offset: 21, 28
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_162
+  rotate: true
+  xy: 1482, 1316
+  size: 94, 101
+  orig: 138, 138
+  offset: 21, 28
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_163
+  rotate: true
+  xy: 1585, 1316
+  size: 94, 101
+  orig: 138, 138
+  offset: 21, 28
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_164
+  rotate: true
+  xy: 1688, 1316
+  size: 94, 101
+  orig: 138, 138
+  offset: 21, 28
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_165
+  rotate: true
+  xy: 2, 1237
+  size: 94, 101
+  orig: 138, 138
+  offset: 21, 28
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_166
+  rotate: true
+  xy: 105, 1235
+  size: 94, 101
+  orig: 138, 138
+  offset: 21, 28
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_167
+  rotate: true
+  xy: 208, 1235
+  size: 94, 101
+  orig: 138, 138
+  offset: 21, 28
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_168
+  rotate: true
+  xy: 311, 1234
+  size: 94, 101
+  orig: 138, 138
+  offset: 21, 28
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_169
+  rotate: true
+  xy: 1626, 1604
+  size: 93, 101
+  orig: 138, 138
+  offset: 21, 28
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_17
+  rotate: true
+  xy: 659, 1423
+  size: 94, 112
+  orig: 138, 138
+  offset: 21, 16
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_170
+  rotate: true
+  xy: 1729, 1604
+  size: 93, 101
+  orig: 138, 138
+  offset: 21, 28
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_171
+  rotate: true
+  xy: 2, 1525
+  size: 93, 101
+  orig: 138, 138
+  offset: 21, 28
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_172
+  rotate: true
+  xy: 456, 1617
+  size: 92, 101
+  orig: 138, 138
+  offset: 22, 28
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_173
+  rotate: true
+  xy: 559, 1616
+  size: 92, 101
+  orig: 138, 138
+  offset: 22, 28
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_174
+  rotate: true
+  xy: 662, 1615
+  size: 92, 101
+  orig: 138, 138
+  offset: 22, 28
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_175
+  rotate: true
+  xy: 765, 1615
+  size: 92, 102
+  orig: 138, 138
+  offset: 22, 27
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_176
+  rotate: true
+  xy: 869, 1613
+  size: 92, 102
+  orig: 138, 138
+  offset: 22, 27
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_177
+  rotate: true
+  xy: 973, 1611
+  size: 92, 102
+  orig: 138, 138
+  offset: 22, 27
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_178
+  rotate: true
+  xy: 1077, 1610
+  size: 92, 102
+  orig: 138, 138
+  offset: 22, 27
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_179
+  rotate: true
+  xy: 1181, 1609
+  size: 92, 102
+  orig: 138, 138
+  offset: 22, 27
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_18
+  rotate: true
+  xy: 773, 1421
+  size: 94, 112
+  orig: 138, 138
+  offset: 21, 16
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_180
+  rotate: true
+  xy: 1363, 1701
+  size: 90, 102
+  orig: 138, 138
+  offset: 23, 27
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_181
+  rotate: true
+  xy: 1467, 1701
+  size: 90, 102
+  orig: 138, 138
+  offset: 23, 27
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_182
+  rotate: true
+  xy: 1571, 1701
+  size: 90, 102
+  orig: 138, 138
+  offset: 23, 27
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_183
+  rotate: true
+  xy: 1259, 1703
+  size: 88, 102
+  orig: 138, 138
+  offset: 24, 27
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_184
+  rotate: true
+  xy: 1154, 1704
+  size: 87, 103
+  orig: 138, 138
+  offset: 25, 26
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_185
+  rotate: true
+  xy: 1049, 1705
+  size: 86, 103
+  orig: 138, 138
+  offset: 25, 26
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_186
+  rotate: true
+  xy: 944, 1707
+  size: 84, 103
+  orig: 138, 138
+  offset: 26, 26
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_187
+  rotate: true
+  xy: 734, 1709
+  size: 82, 103
+  orig: 138, 138
+  offset: 27, 26
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_188
+  rotate: true
+  xy: 839, 1709
+  size: 82, 103
+  orig: 138, 138
+  offset: 27, 26
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_189
+  rotate: true
+  xy: 629, 1710
+  size: 81, 103
+  orig: 138, 138
+  offset: 28, 26
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_19
+  rotate: true
+  xy: 887, 1419
+  size: 94, 112
+  orig: 138, 138
+  offset: 21, 16
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_190
+  rotate: true
+  xy: 525, 1711
+  size: 80, 102
+  orig: 138, 138
+  offset: 29, 26
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_191
+  rotate: true
+  xy: 421, 1712
+  size: 79, 102
+  orig: 138, 138
+  offset: 30, 26
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_192
+  rotate: true
+  xy: 212, 1713
+  size: 78, 102
+  orig: 138, 138
+  offset: 31, 26
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_193
+  rotate: true
+  xy: 2, 1714
+  size: 77, 103
+  orig: 138, 138
+  offset: 32, 25
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_194
+  rotate: true
+  xy: 107, 1714
+  size: 77, 103
+  orig: 138, 138
+  offset: 32, 25
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_195
+  rotate: true
+  xy: 316, 1713
+  size: 78, 103
+  orig: 138, 138
+  offset: 32, 25
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_196
+  rotate: true
+  xy: 1407, 1219
+  size: 95, 108
+  orig: 138, 138
+  offset: 21, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_197
+  rotate: true
+  xy: 1517, 1219
+  size: 95, 108
+  orig: 138, 138
+  offset: 21, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_198
+  rotate: true
+  xy: 543, 734
+  size: 97, 108
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_199
+  rotate: true
+  xy: 653, 734
+  size: 97, 109
+  orig: 138, 138
+  offset: 20, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_20
+  rotate: true
+  xy: 1001, 1418
+  size: 94, 112
+  orig: 138, 138
+  offset: 21, 16
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_200
+  rotate: true
+  xy: 764, 734
+  size: 97, 109
+  orig: 138, 138
+  offset: 20, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_201
+  rotate: true
+  xy: 1399, 627
+  size: 98, 109
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_202
+  rotate: true
+  xy: 867, 429
+  size: 99, 109
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_203
+  rotate: true
+  xy: 978, 429
+  size: 99, 109
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_204
+  rotate: true
+  xy: 1089, 427
+  size: 99, 109
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_205
+  rotate: true
+  xy: 1200, 427
+  size: 99, 109
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_206
+  rotate: true
+  xy: 1311, 426
+  size: 99, 110
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_207
+  rotate: true
+  xy: 1423, 426
+  size: 99, 110
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_208
+  rotate: true
+  xy: 1535, 425
+  size: 99, 110
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_209
+  rotate: true
+  xy: 1647, 425
+  size: 99, 110
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_21
+  rotate: true
+  xy: 1285, 1606
+  size: 93, 112
+  orig: 138, 138
+  offset: 21, 16
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_210
+  rotate: true
+  xy: 329, 332
+  size: 99, 110
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_211
+  rotate: true
+  xy: 441, 332
+  size: 99, 110
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_212
+  rotate: true
+  xy: 652, 125
+  size: 100, 110
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_213
+  rotate: true
+  xy: 553, 332
+  size: 99, 110
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_214
+  rotate: true
+  xy: 665, 328
+  size: 99, 110
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_215
+  rotate: true
+  xy: 777, 328
+  size: 99, 110
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_216
+  rotate: true
+  xy: 889, 328
+  size: 99, 110
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_217
+  rotate: true
+  xy: 1001, 326
+  size: 99, 110
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_218
+  rotate: true
+  xy: 1113, 326
+  size: 99, 110
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_219
+  rotate: true
+  xy: 1225, 325
+  size: 99, 110
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_22
+  rotate: true
+  xy: 1399, 1606
+  size: 93, 112
+  orig: 138, 138
+  offset: 21, 16
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_220
+  rotate: true
+  xy: 1337, 325
+  size: 99, 110
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_221
+  rotate: true
+  xy: 1449, 324
+  size: 99, 110
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_222
+  rotate: true
+  xy: 1561, 324
+  size: 99, 110
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_223
+  rotate: true
+  xy: 1673, 317
+  size: 99, 110
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_224
+  rotate: true
+  xy: 329, 231
+  size: 99, 110
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_225
+  rotate: true
+  xy: 441, 231
+  size: 99, 110
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_226
+  rotate: true
+  xy: 553, 231
+  size: 99, 110
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_227
+  rotate: true
+  xy: 665, 227
+  size: 99, 109
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_228
+  rotate: true
+  xy: 776, 227
+  size: 99, 109
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_229
+  rotate: true
+  xy: 887, 227
+  size: 99, 109
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_23
+  rotate: true
+  xy: 1675, 1699
+  size: 92, 112
+  orig: 138, 138
+  offset: 22, 16
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_230
+  rotate: true
+  xy: 998, 225
+  size: 99, 109
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_231
+  rotate: true
+  xy: 1109, 225
+  size: 99, 109
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_232
+  rotate: true
+  xy: 1220, 224
+  size: 99, 109
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_233
+  rotate: true
+  xy: 1510, 627
+  size: 98, 109
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_234
+  rotate: true
+  xy: 1621, 626
+  size: 98, 109
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_235
+  rotate: true
+  xy: 1732, 626
+  size: 98, 109
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_236
+  rotate: true
+  xy: 2, 544
+  size: 98, 109
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_237
+  rotate: true
+  xy: 113, 541
+  size: 98, 109
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_238
+  rotate: true
+  xy: 440, 534
+  size: 98, 109
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_239
+  rotate: true
+  xy: 551, 534
+  size: 98, 109
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_24
+  rotate: true
+  xy: 2, 1620
+  size: 92, 112
+  orig: 138, 138
+  offset: 22, 16
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_240
+  rotate: true
+  xy: 662, 534
+  size: 98, 109
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_241
+  rotate: true
+  xy: 773, 530
+  size: 98, 109
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_242
+  rotate: true
+  xy: 884, 530
+  size: 98, 109
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_243
+  rotate: true
+  xy: 995, 530
+  size: 98, 109
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_244
+  rotate: true
+  xy: 1106, 528
+  size: 98, 109
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_245
+  rotate: true
+  xy: 1217, 528
+  size: 98, 109
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_246
+  rotate: true
+  xy: 1328, 527
+  size: 98, 109
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_247
+  rotate: true
+  xy: 1439, 527
+  size: 98, 109
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_248
+  rotate: true
+  xy: 1550, 526
+  size: 98, 109
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_249
+  rotate: true
+  xy: 1661, 526
+  size: 98, 109
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_25
+  rotate: true
+  xy: 116, 1619
+  size: 92, 112
+  orig: 138, 138
+  offset: 22, 16
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_250
+  rotate: true
+  xy: 224, 540
+  size: 98, 108
+  orig: 138, 138
+  offset: 19, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_251
+  rotate: true
+  xy: 2, 444
+  size: 98, 107
+  orig: 138, 138
+  offset: 19, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_252
+  rotate: true
+  xy: 111, 441
+  size: 98, 107
+  orig: 138, 138
+  offset: 19, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_253
+  rotate: true
+  xy: 220, 440
+  size: 98, 107
+  orig: 138, 138
+  offset: 19, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_254
+  rotate: true
+  xy: 220, 741
+  size: 97, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_255
+  rotate: true
+  xy: 329, 740
+  size: 97, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_256
+  rotate: true
+  xy: 875, 730
+  size: 97, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_257
+  rotate: true
+  xy: 984, 730
+  size: 97, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_258
+  rotate: true
+  xy: 1093, 730
+  size: 97, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_259
+  rotate: true
+  xy: 1202, 728
+  size: 97, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_26
+  rotate: true
+  xy: 230, 1619
+  size: 92, 111
+  orig: 138, 138
+  offset: 22, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_260
+  rotate: true
+  xy: 1311, 728
+  size: 97, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_261
+  rotate: true
+  xy: 1420, 727
+  size: 97, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_262
+  rotate: true
+  xy: 1529, 727
+  size: 97, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_263
+  rotate: true
+  xy: 112, 941
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_264
+  rotate: true
+  xy: 327, 938
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_265
+  rotate: true
+  xy: 436, 937
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_266
+  rotate: true
+  xy: 756, 931
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_267
+  rotate: true
+  xy: 865, 931
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_268
+  rotate: true
+  xy: 974, 927
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_269
+  rotate: true
+  xy: 1083, 927
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_27
+  rotate: true
+  xy: 343, 1618
+  size: 92, 111
+  orig: 138, 138
+  offset: 22, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_270
+  rotate: true
+  xy: 1192, 927
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_271
+  rotate: true
+  xy: 1301, 925
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_272
+  rotate: true
+  xy: 1410, 925
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_273
+  rotate: true
+  xy: 1519, 924
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_274
+  rotate: true
+  xy: 1628, 924
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_275
+  rotate: true
+  xy: 1737, 924
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_276
+  rotate: true
+  xy: 2, 843
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_277
+  rotate: true
+  xy: 111, 843
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_278
+  rotate: true
+  xy: 220, 840
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_279
+  rotate: true
+  xy: 221, 1038
+  size: 96, 106
+  orig: 138, 138
+  offset: 20, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_28
+  rotate: true
+  xy: 1513, 1606
+  size: 93, 111
+  orig: 138, 138
+  offset: 22, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_280
+  rotate: true
+  xy: 329, 839
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 20
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_281
+  rotate: true
+  xy: 543, 1035
+  size: 96, 106
+  orig: 138, 138
+  offset: 20, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_282
+  rotate: true
+  xy: 651, 1033
+  size: 96, 106
+  orig: 138, 138
+  offset: 20, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_283
+  rotate: true
+  xy: 753, 833
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_284
+  rotate: true
+  xy: 862, 833
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_285
+  rotate: true
+  xy: 971, 829
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_286
+  rotate: true
+  xy: 1080, 829
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_287
+  rotate: true
+  xy: 1189, 829
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_288
+  rotate: true
+  xy: 1298, 827
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_289
+  rotate: true
+  xy: 1407, 827
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_29
+  rotate: true
+  xy: 1115, 1417
+  size: 94, 111
+  orig: 138, 138
+  offset: 21, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_290
+  rotate: true
+  xy: 1516, 826
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_291
+  rotate: true
+  xy: 1625, 826
+  size: 96, 107
+  orig: 138, 138
+  offset: 20, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_292
+  rotate: true
+  xy: 1734, 826
+  size: 96, 108
+  orig: 138, 138
+  offset: 20, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_293
+  rotate: true
+  xy: 1627, 1219
+  size: 95, 108
+  orig: 138, 138
+  offset: 20, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_294
+  rotate: true
+  xy: 414, 1233
+  size: 94, 108
+  orig: 138, 138
+  offset: 21, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_295
+  rotate: true
+  xy: 524, 1232
+  size: 94, 108
+  orig: 138, 138
+  offset: 21, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_296
+  rotate: true
+  xy: 634, 1231
+  size: 94, 108
+  orig: 138, 138
+  offset: 21, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_297
+  rotate: true
+  xy: 744, 1229
+  size: 94, 108
+  orig: 138, 138
+  offset: 21, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_298
+  rotate: true
+  xy: 854, 1227
+  size: 94, 108
+  orig: 138, 138
+  offset: 21, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_299
+  rotate: true
+  xy: 964, 1225
+  size: 94, 108
+  orig: 138, 138
+  offset: 21, 21
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_30
+  rotate: true
+  xy: 1228, 1414
+  size: 94, 111
+  orig: 138, 138
+  offset: 21, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_31
+  rotate: true
+  xy: 1074, 1221
+  size: 95, 111
+  orig: 138, 138
+  offset: 21, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_32
+  rotate: true
+  xy: 1737, 1218
+  size: 96, 111
+  orig: 138, 138
+  offset: 20, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_33
+  rotate: true
+  xy: 2, 1137
+  size: 96, 111
+  orig: 138, 138
+  offset: 20, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_34
+  rotate: true
+  xy: 2, 744
+  size: 97, 111
+  orig: 138, 138
+  offset: 20, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_35
+  rotate: true
+  xy: 1638, 726
+  size: 98, 111
+  orig: 138, 138
+  offset: 19, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_36
+  rotate: true
+  xy: 2, 644
+  size: 98, 111
+  orig: 138, 138
+  offset: 19, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_37
+  rotate: true
+  xy: 115, 641
+  size: 98, 111
+  orig: 138, 138
+  offset: 19, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_38
+  rotate: true
+  xy: 436, 433
+  size: 99, 110
+  orig: 138, 138
+  offset: 19, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_39
+  rotate: true
+  xy: 1331, 223
+  size: 100, 110
+  orig: 138, 138
+  offset: 18, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_40
+  rotate: true
+  xy: 1443, 222
+  size: 100, 110
+  orig: 138, 138
+  offset: 18, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_41
+  rotate: true
+  xy: 1555, 222
+  size: 100, 110
+  orig: 138, 138
+  offset: 18, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_42
+  rotate: true
+  xy: 1667, 215
+  size: 100, 110
+  orig: 138, 138
+  offset: 18, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_43
+  rotate: true
+  xy: 764, 124
+  size: 101, 110
+  orig: 138, 138
+  offset: 18, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_44
+  rotate: true
+  xy: 876, 124
+  size: 101, 110
+  orig: 138, 138
+  offset: 18, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_45
+  rotate: true
+  xy: 332, 25
+  size: 102, 110
+  orig: 138, 138
+  offset: 17, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_46
+  rotate: true
+  xy: 444, 25
+  size: 102, 110
+  orig: 138, 138
+  offset: 17, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_47
+  rotate: true
+  xy: 556, 21
+  size: 102, 110
+  orig: 138, 138
+  offset: 17, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_48
+  rotate: true
+  xy: 668, 20
+  size: 102, 110
+  orig: 138, 138
+  offset: 17, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_49
+  rotate: true
+  xy: 780, 20
+  size: 102, 110
+  orig: 138, 138
+  offset: 17, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_50
+  rotate: true
+  xy: 892, 18
+  size: 102, 110
+  orig: 138, 138
+  offset: 17, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_51
+  rotate: true
+  xy: 1004, 18
+  size: 102, 110
+  orig: 138, 138
+  offset: 17, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_52
+  rotate: true
+  xy: 1116, 17
+  size: 102, 110
+  orig: 138, 138
+  offset: 17, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_53
+  rotate: true
+  xy: 1228, 16
+  size: 102, 110
+  orig: 138, 138
+  offset: 17, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_54
+  rotate: true
+  xy: 1340, 15
+  size: 102, 109
+  orig: 138, 138
+  offset: 17, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_55
+  rotate: true
+  xy: 1451, 15
+  size: 102, 109
+  orig: 138, 138
+  offset: 17, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_56
+  rotate: true
+  xy: 1562, 8
+  size: 102, 109
+  orig: 138, 138
+  offset: 17, 17
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_57
+  rotate: true
+  xy: 1673, 2
+  size: 102, 108
+  orig: 138, 138
+  offset: 17, 18
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_58
+  rotate: true
+  xy: 988, 122
+  size: 101, 108
+  orig: 138, 138
+  offset: 18, 18
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_59
+  rotate: true
+  xy: 1098, 122
+  size: 101, 108
+  orig: 138, 138
+  offset: 18, 18
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_60
+  rotate: true
+  xy: 1208, 121
+  size: 101, 108
+  orig: 138, 138
+  offset: 18, 18
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_61
+  rotate: true
+  xy: 1318, 120
+  size: 101, 108
+  orig: 138, 138
+  offset: 18, 18
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_62
+  rotate: true
+  xy: 1428, 119
+  size: 101, 108
+  orig: 138, 138
+  offset: 18, 18
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_63
+  rotate: true
+  xy: 1538, 119
+  size: 101, 108
+  orig: 138, 138
+  offset: 18, 18
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_64
+  rotate: true
+  xy: 1648, 112
+  size: 101, 108
+  orig: 138, 138
+  offset: 18, 18
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_65
+  rotate: true
+  xy: 2, 32
+  size: 101, 108
+  orig: 138, 138
+  offset: 18, 18
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_66
+  rotate: true
+  xy: 112, 31
+  size: 101, 108
+  orig: 138, 138
+  offset: 18, 18
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_67
+  rotate: true
+  xy: 222, 26
+  size: 101, 108
+  orig: 138, 138
+  offset: 18, 18
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_68
+  rotate: false
+  xy: 1758, 106
+  size: 101, 107
+  orig: 138, 138
+  offset: 18, 18
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_69
+  rotate: true
+  xy: 2, 342
+  size: 100, 107
+  orig: 138, 138
+  offset: 18, 18
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_70
+  rotate: true
+  xy: 111, 339
+  size: 100, 107
+  orig: 138, 138
+  offset: 18, 18
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_71
+  rotate: true
+  xy: 220, 338
+  size: 100, 107
+  orig: 138, 138
+  offset: 18, 18
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_72
+  rotate: true
+  xy: 2, 240
+  size: 100, 107
+  orig: 138, 138
+  offset: 18, 18
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_73
+  rotate: true
+  xy: 111, 237
+  size: 100, 107
+  orig: 138, 138
+  offset: 18, 18
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_74
+  rotate: true
+  xy: 220, 236
+  size: 100, 107
+  orig: 138, 138
+  offset: 18, 18
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_75
+  rotate: true
+  xy: 2, 138
+  size: 100, 107
+  orig: 138, 138
+  offset: 18, 18
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_76
+  rotate: true
+  xy: 111, 135
+  size: 100, 107
+  orig: 138, 138
+  offset: 18, 18
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_77
+  rotate: false
+  xy: 1759, 418
+  size: 100, 106
+  orig: 138, 138
+  offset: 18, 18
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_78
+  rotate: true
+  xy: 220, 134
+  size: 100, 106
+  orig: 138, 138
+  offset: 18, 18
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_79
+  rotate: true
+  xy: 328, 129
+  size: 100, 106
+  orig: 138, 138
+  offset: 18, 18
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_80
+  rotate: true
+  xy: 436, 129
+  size: 100, 106
+  orig: 138, 138
+  offset: 18, 18
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_81
+  rotate: true
+  xy: 544, 129
+  size: 100, 106
+  orig: 138, 138
+  offset: 18, 18
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_82
+  rotate: true
+  xy: 329, 435
+  size: 99, 105
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_83
+  rotate: true
+  xy: 548, 433
+  size: 99, 105
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_84
+  rotate: true
+  xy: 334, 536
+  size: 99, 104
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_85
+  rotate: true
+  xy: 655, 433
+  size: 99, 104
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_86
+  rotate: true
+  xy: 761, 429
+  size: 99, 104
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_87
+  rotate: true
+  xy: 759, 1029
+  size: 98, 104
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_88
+  rotate: true
+  xy: 1301, 1023
+  size: 98, 104
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_89
+  rotate: true
+  xy: 221, 938
+  size: 98, 104
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_90
+  rotate: true
+  xy: 545, 935
+  size: 98, 104
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_91
+  rotate: true
+  xy: 651, 933
+  size: 98, 103
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_92
+  rotate: true
+  xy: 438, 837
+  size: 98, 103
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_93
+  rotate: true
+  xy: 543, 835
+  size: 98, 103
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_94
+  rotate: true
+  xy: 648, 833
+  size: 98, 103
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_95
+  rotate: true
+  xy: 115, 743
+  size: 98, 103
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_96
+  rotate: true
+  xy: 438, 737
+  size: 98, 103
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_97
+  rotate: true
+  xy: 1751, 726
+  size: 98, 104
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_98
+  rotate: true
+  xy: 228, 640
+  size: 98, 104
+  orig: 138, 138
+  offset: 19, 19
+  index: -1
+ruby7sLogoAnim-assets/FX/swirlFX/swirlFX_99
+  rotate: true
+  xy: 334, 637
+  size: 98, 104
+  orig: 138, 138
+  offset: 19, 19
+  index: -1

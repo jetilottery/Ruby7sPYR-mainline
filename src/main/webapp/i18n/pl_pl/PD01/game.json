@@ -1,0 +1,103 @@
+{
+  "version": "",
+  "Paytable": {
+    "RTPvalue": "{@minRTP}%",
+    "RTPrange": "{@minRTP}% do {@maxRTP}%",
+    "paybackTitle": "Oczekiwany zwrot",
+    "paybackBody": "Długoterminowy, teoretycznie oczekiwany zwrot w tej grze wynosi {RTP}.",
+    "subheading": "Opłata za los: {ticketCost}",
+    "prizeLevel": "Stopień wygranej",
+    "description": "Opis",
+    "prizeValue": "Wartość wygranej",
+    "descriptionText1": "Wygrana dopasowanej liczby",
+    "descriptionText2": "Wygrana bonusu",
+    "overallChances": "Łączna szansa wygrania nagrody dla danej stawki: 1 na {odds}.",
+    "prizeDivision": "Stopień wygranej",
+    "prizeRemaining": "Pozostała przybliżona liczba nagród",
+    "oddsPerPlay": "Szansa na wygraną"
+
+  },
+  "title": "Siódemki",
+  "MenuCommand": {
+    "price": "Cena",
+    "stake": "Stawka",
+    "howToPlay": "Zasady gry",
+    "paytable": "Tabela wygranych",
+    "close": "X",
+    "audio": {
+      "sound": "Dźwięk",
+      "on": "Wł.",
+      "off": "Wył."
+    }
+  },
+  "Error": {
+    "errorCodePrefix": "Błąd: ",
+    "genericErrorText": "Wystąpił błąd wewnętrzny. WYJDŹ i uruchom ponownie grę."
+  },
+  "Game": {
+    "footer_balance": "SALDO",
+    "footer_ticketCost": "OPŁATA ZA LOS",
+    "ticketSelect_ticketCost": "OPŁATA ZA LOS",
+    "ticketCostPrefix": {
+      "BUY": "",
+      "TRY": "DEMO "
+    },
+    "footer_win": {
+      "BUY": "WYGRANA",
+      "TRY": "WYGRANA DEMO"
+    },
+
+    "button_buy": {
+      "BUY": "PŁACĘ",
+      "TRY": "DEMO"
+    },
+    "button_try": "DEMO",
+    "button_retry": "RETRY",
+    "button_continue": "KONTYNUUJ",
+    "button_moveToMoney": "GRAJ ZA PIENIĄDZE",
+    "button_autoPlay": "AUTO",
+    "button_stop": "STOP",
+    "button_playAgain": {
+      "BUY": "GRAJ PONOWNIE",
+      "TRY": "SPRÓBUJ PONOWNIE"
+    },
+    "button_tryAgain": "SPRÓBUJ PONOWNIE",
+    "button_ok": "OK",
+    "button_exit": "WYJDŹ",
+
+    "error_button_exit": "WYJDŹ",
+    "error_title": "BŁĄD",
+
+    "message_nonWin": "POWODZENIA\nNASTĘPNYM RAZEM!",
+    "message_win": {
+      "BUY": "GRATULACJE!\nTWOJA WYGRANA TO:",
+      "TRY": "DZIĘKUJEMY ZA GRĘ!\nMOŻNA BYŁO WYGRAĆ"
+    },
+
+    "howToPlay": "ZASADY GRY",
+    "page1_line1": "[7]Odkryj symbol pojedynczej 7-ki, aby wygrać odpowiadającą jej nagrodę.",
+    "page1_line2": "[77]Odkryj symbol podwójnej 7-ki, aby podwoić odpowiadającą jej nagrodę.",
+    "page1_line3": "[777]Odkryj symbol potrójnej 7-ki, aby potroić odpowiadającą jej nagrodę.",
+    "page1_line4": "[RUBY]Odkryj co najmniej 3 symbole bonusowego rubinu, aby rozpocząć rundę bonusową.",
+
+    "page2_line1": "[WHEEL]Zakręć kołem, aby rozpocząć rundę bonusową.",
+    "page2_line2": "[WHEELPRIZE]Wygraj nagrodę przypisaną do pola na którym zatrzyma się wskaźnik.",
+    "page2_line3": "[WHEELARROW]Przejdź do następnego koła, gdy wskaźnik zatrzyma się na symbolu strzałki.",
+    "page2_line4": "[WHEELX]Jeśli wskaźnik zatrzyma się na znaku X, kolejka kręcenia kołem zostaje zakończona.\nRunda bonusowa kończy się, gdy nie będzie więcej bonusowych rubinów.",
+
+    "winUpTo": "WYGRAJ DO",
+    "bonus": "BONUS",
+    "bonusNoWin": "BRAK WYGRANEJ BONUSU",
+    "bonusWin": "WYGRANA BONUSOWA",
+    "totalWin": "ŁĄCZNA WYGRANA",
+    "infoBarText": "ZNAJDŹ RUBINOWĄ [7sLOGO]-KĘ, ABY WYGRAĆ!",
+    "bonusInfo": "",
+    "bonusInfo2": "",
+
+    "bonusSpinButton": "Przycisk Obrót bonusu",
+    "respin": "Obrót ponowny",
+
+    "yourNumbers": "TWOJE LICZBY",
+    "luckyNumbers": "SZCZĘŚLIWE LICZBY"
+  }
+}
